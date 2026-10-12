@@ -287,9 +287,7 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 #EXTINF:-1 tvg-id="纬来电影台" group-title="港澳台" tvg-logo="https://epg.pw/logos/纬来电影台.png",纬来电影台
 http://61.221.215.25:8800/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" group-title="港澳台" tvg-logo="https://epg.pw/logos/中天新闻台.png",中天新闻台
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="中天新闻台" group-title="港澳台" tvg-logo="https://epg.pw/logos/中天新闻台.png",中天新闻台
+#EXTINF:-1 tvg-id="iNews" group-title="国外中文" tvg-logo="https://epg.pw/logos/中天新闻台.png",iNews
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="中天综合台" group-title="港澳台" tvg-logo="https://epg.pw/logos/中天综合台.png",中天综合台
 http://61.221.215.25:8800/hls/47/index.m3u8
