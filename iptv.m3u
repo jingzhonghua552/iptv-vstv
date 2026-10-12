@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="cctv1综合" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1 综合
 http://173.208.212.130:8181/720p/cctv1.m3u8
 #EXTINF:-1 tvg-id="cctv1综合" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1 综合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="cctv2财经" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2 财经
 http://173.208.212.130:8181/720p/cctv2.m3u8
 #EXTINF:-1 tvg-id="cctv2财经" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2 财经
@@ -10,15 +10,15 @@ https://play.kankanlive.com/live/1698234898628961.m3u8
 #EXTINF:-1 tvg-id="cctv3综艺" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png",CCTV-3 综艺
 http://173.208.212.130:8181/720p/cctv3.m3u8
 #EXTINF:-1 tvg-id="cctv3综艺" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png",CCTV-3 综艺
-http://107.150.60.122/live/cctv3hd.m3u8
+http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4中文国际" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文国际
 http://173.208.212.130:8181/720p/cctv4.m3u8
 #EXTINF:-1 tvg-id="cctv4中文国际" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文国际
 http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 tvg-id="cctv5体育" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
-http://173.208.212.130:8181/720p/cctv5.m3u8
-#EXTINF:-1 tvg-id="cctv5体育" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
 http://173.208.212.130:8181/720p/cctv5p.m3u8
+#EXTINF:-1 tvg-id="cctv5体育" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
+http://173.208.212.130:8181/720p/cctv5.m3u8
 #EXTINF:-1 tvg-id="cctv5体育赛事" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png",CCTV-5+ 体育赛事
 http://173.208.212.130:8181/720p/cctv5p.m3u8
 #EXTINF:-1 tvg-id="cctv5体育赛事" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png",CCTV-5+ 体育赛事
@@ -34,7 +34,7 @@ http://113.90.154.189:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="cctv8电视剧" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png",CCTV-8 电视剧
 http://173.208.212.130:8181/720p/cctv8.m3u8
 #EXTINF:-1 tvg-id="cctv8电视剧" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png",CCTV-8 电视剧
-http://gmxw.7766.org:808/hls/96/index.m3u8
+http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="cctv9纪录" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png",CCTV-9 纪录
 http://173.208.212.130:8181/720p/cctv9.m3u8
 #EXTINF:-1 tvg-id="cctv9纪录" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png",CCTV-9 纪录
@@ -50,7 +50,7 @@ http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="cctv12社会与法" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png",CCTV-12 社会与法
 http://173.208.212.130:8181/720p/cctv12.m3u8
 #EXTINF:-1 tvg-id="cctv12社会与法" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png",CCTV-12 社会与法
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+http://107.150.60.122/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="cctv13新闻" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13 新闻
 http://173.208.212.130:8181/720p/cctv13.m3u8
 #EXTINF:-1 tvg-id="cctv13新闻" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13 新闻
@@ -68,9 +68,11 @@ http://173.208.212.130:8181/720p/cctv16.m3u8
 #EXTINF:-1 tvg-id="cctv17农业农村" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png",CCTV-17 农业农村
 http://173.208.212.130:8181/720p/cctv17.m3u8
 #EXTINF:-1 tvg-id="cctv17农业农村" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png",CCTV-17 农业农村
-http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://121.19.134.202:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv4k超高清" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png",CCTV-4K 超高清
 http://173.208.212.130:8181/4k/cctv4k.m3u8
+#EXTINF:-1 tvg-id="cctv新闻联播" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTVXWLB.png",CCTV 新闻联播
+http://173.208.212.130:8181/720p/cctvnews.m3u8
 #EXTINF:-1 tvg-id="cgtn英语新闻" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png",CGTN 英语新闻
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="cgtn法语" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNF.png",CGTN 法语
@@ -128,7 +130,7 @@ http://204.12.221.218:8181/3m1080p/sxws.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/内蒙古卫视.png",内蒙古卫视
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/内蒙古卫视.png",内蒙古卫视
-https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+http://120.76.248.139/live/bfgd/4200000110.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
 http://58.57.40.22:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
@@ -138,17 +140,17 @@ http://183.196.87.176:880/hls/51/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/吉林卫视.png",吉林卫视
 http://121.19.134.202:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="黑龙江卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/黑龙江卫视.png",黑龙江卫视
-http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/黑龙江卫视.png",黑龙江卫视
 http://27.129.145.110:4433/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/黑龙江卫视.png",黑龙江卫视
+http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 tvg-id="延边卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/延边卫视.png",延边卫视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-id="延边卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/延边卫视.png",延边卫视
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 tvg-id="延边卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/延边卫视.png",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png",东方卫视
 http://173.208.212.130:8181/720p/dfws.m3u8
 #EXTINF:-1 tvg-id="东方卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png",东方卫视
-http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="江苏卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png",江苏卫视
 http://173.208.212.130:8181/720p/jsws.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png",江苏卫视
@@ -176,15 +178,15 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/厦门卫视.png",厦门卫视
 http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/厦门卫视.png",厦门卫视
-http://198.204.228.26/live/xmws.m3u8
+http://192.151.150.154/live/xmws.m3u8
 #EXTINF:-1 tvg-id="河南卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png",河南卫视
 http://173.208.212.130:8181/720p/haws.m3u8
 #EXTINF:-1 tvg-id="河南卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png",河南卫视
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
-http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
 http://27.129.145.110:4433/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png",湖南卫视
 http://173.208.212.130:8181/720p/hnws.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png",湖南卫视
@@ -200,7 +202,7 @@ http://112.27.5.218:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=1&au
 #EXTINF:-1 tvg-id="海南卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/海南卫视.png",海南卫视
 http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/海南卫视.png",海南卫视
-http://121.19.134.202:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png",深圳卫视
 http://173.208.212.130:8181/720p/szws.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png",深圳卫视
@@ -212,11 +214,11 @@ http://198.204.228.26/live/ssws.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/大湾区卫视.png",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/大湾区卫视.png",大湾区卫视
-http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+http://107.150.60.122/live/nfws.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png",重庆卫视
 http://173.208.212.130:8181/720p/cqws.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png",重庆卫视
-http://121.19.134.6:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.27.5.218:9901/tsfile/live/faacts/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="四川卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/四川卫视.png",四川卫视
 http://173.208.212.130:8181/720p/scws.m3u8
 #EXTINF:-1 tvg-id="四川卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/四川卫视.png",四川卫视
@@ -224,31 +226,31 @@ http://112.27.5.218:9901/tsfile/live/faacts/0118_1.m3u8?key=txiptv&playlive=1&au
 #EXTINF:-1 tvg-id="贵州卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/贵州卫视.png",贵州卫视
 http://27.129.145.110:4433/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/贵州卫视.png",贵州卫视
-http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
+http://112.27.5.218:9901/tsfile/live/faacts/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="云南卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/云南卫视.png",云南卫视
 http://173.208.212.130:8181/720p/ynws.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/西藏卫视.png",西藏卫视
 http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="康巴卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/康巴卫视.png",康巴卫视
-http://110.185.237.164:8888/hls/30/index.m3u8
-#EXTINF:-1 tvg-id="康巴卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/康巴卫视.png",康巴卫视
 http://39.164.143.66:13994/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="陕西卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/陕西卫视.png",陕西卫视
-http://107.150.60.122/live/snwshd.m3u8
+#EXTINF:-1 tvg-id="康巴卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/康巴卫视.png",康巴卫视
+http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/陕西卫视.png",陕西卫视
 http://192.151.150.154/live/snwshd.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/甘肃卫视.png",甘肃卫视
-http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="陕西卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/陕西卫视.png",陕西卫视
+http://107.150.60.122/live/snwshd.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/甘肃卫视.png",甘肃卫视
 http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/甘肃卫视.png",甘肃卫视
+http://120.76.248.139/live/bfgd/4200000119.m3u8
 #EXTINF:-1 tvg-id="青海卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/青海卫视.png",青海卫视
 http://120.76.248.139/live/bfgd/4200000111.m3u8
 #EXTINF:-1 tvg-id="青海卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/青海卫视.png",青海卫视
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/宁夏卫视.png",宁夏卫视
-http://198.204.228.26/live/nxws.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/宁夏卫视.png",宁夏卫视
 http://107.150.60.122/live/nxws.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/宁夏卫视.png",宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/新疆卫视.png",新疆卫视
 http://112.27.5.218:9901/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="新疆卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/新疆卫视.png",新疆卫视
@@ -260,7 +262,7 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/海峡卫视.png",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/海峡卫视.png",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 #EXTINF:-1 tvg-id="山东教育卫视" group-title="卫视" tvg-logo="https://epg.pw/logos/山东教育卫视.png",山东教育卫视
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视中文台" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文台.png",凤凰卫视中文台
@@ -284,9 +286,9 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="中天娱乐台" group-title="港澳台" tvg-logo="https://epg.pw/logos/中天娱乐台.png",中天娱乐台
 http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育台" group-title="港澳台" tvg-logo="https://epg.pw/logos/纬来体育台.png",纬来体育台
-https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
-#EXTINF:-1 tvg-id="纬来体育台" group-title="港澳台" tvg-logo="https://epg.pw/logos/纬来体育台.png",纬来体育台
 http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" group-title="港澳台" tvg-logo="https://epg.pw/logos/纬来体育台.png",纬来体育台
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 #EXTINF:-1 tvg-id="纬来电影台" group-title="港澳台" tvg-logo="https://epg.pw/logos/纬来电影台.png",纬来电影台
 http://61.221.215.25:8800/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" group-title="港澳台" tvg-logo="https://epg.pw/logos/中天新闻台.png",中天新闻台
@@ -298,23 +300,23 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="人间卫视" group-title="港澳台" tvg-logo="https://epg.pw/logos/人间卫视.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-id="tvbs" group-title="港澳台" tvg-logo="https://epg.pw/logos/TVBS.png",TVBS
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="tvbs" group-title="港澳台" tvg-logo="https://epg.pw/logos/TVBS.png",TVBS
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-id="tvbs新闻" group-title="港澳台" tvg-logo="https://epg.pw/logos/TVBS新闻.png",TVBS新闻
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
 #EXTINF:-1 tvg-id="tvbs新闻" group-title="港澳台" tvg-logo="https://epg.pw/logos/TVBS新闻.png",TVBS新闻
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="tvbs综合台" group-title="港澳台" tvg-logo="https://epg.pw/logos/TVBS综合台.png",TVBS综合台
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="浙江国际频道" group-title="国外中文" tvg-logo="https://epg.pw/logos/浙江国际频道.png",浙江国际频道
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际频道" group-title="国外中文" tvg-logo="https://epg.pw/logos/浙江国际频道.png",浙江国际频道
-https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 tvg-id="广西国际频道" group-title="国外中文" tvg-logo="https://epg.pw/logos/广西国际频道.png",广西国际频道
-http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="广西国际频道" group-title="国外中文" tvg-logo="https://epg.pw/logos/广西国际频道.png",广西国际频道
 https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 tvg-id="广西国际频道" group-title="国外中文" tvg-logo="https://epg.pw/logos/广西国际频道.png",广西国际频道
+http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 #EXTINF:-1 tvg-id="kbsworld" group-title="国外中文" tvg-logo="https://epg.pw/logos/KBS World.png",KBS World
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="国外中文" tvg-logo="https://epg.pw/logos/DMAX.png",DMAX
@@ -362,17 +364,17 @@ http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江钱江都市频道.png",浙江钱江都市频道
 http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江经济生活频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江经济生活频道.png",浙江经济生活频道
-http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经济生活频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江经济生活频道.png",浙江经济生活频道
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江经济生活频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江经济生活频道.png",浙江经济生活频道
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江教科影视频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江教科影视频道.png",浙江教科影视频道
 http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 #EXTINF:-1 tvg-id="浙江教科影视频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江教科影视频道.png",浙江教科影视频道
 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江公共新闻频道.png",浙江公共新闻频道
-http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江公共新闻频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江公共新闻频道.png",浙江公共新闻频道
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江公共新闻频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江公共新闻频道.png",浙江公共新闻频道
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江少儿频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江少儿频道.png",浙江少儿频道
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江少儿频道" group-title="地方台" tvg-logo="https://epg.pw/logos/浙江少儿频道.png",浙江少儿频道
@@ -390,9 +392,9 @@ http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="海南南国都市频道" group-title="地方台" tvg-logo="https://epg.pw/logos/海南南国都市频道.png",海南南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="广东珠江频道" group-title="地方台" tvg-logo="https://epg.pw/logos/广东珠江频道.png",广东珠江频道
-http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="广东珠江频道" group-title="地方台" tvg-logo="https://epg.pw/logos/广东珠江频道.png",广东珠江频道
 http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="广东珠江频道" group-title="地方台" tvg-logo="https://epg.pw/logos/广东珠江频道.png",广东珠江频道
+http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="广西综艺旅游频道" group-title="地方台" tvg-logo="https://epg.pw/logos/广西综艺旅游频道.png",广西综艺旅游频道
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="重庆新闻频道" group-title="地方台" tvg-logo="https://epg.pw/logos/重庆新闻频道.png",重庆新闻频道
@@ -401,5 +403,89 @@ http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 tvg-id="甘肃都市频道" group-title="地方台" tvg-logo="https://epg.pw/logos/甘肃都市频道.png",甘肃都市频道
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-#EXTINF:-1 tvg-id="英雄联盟官方赛事" group-title="B站直播" tvg-logo="英雄联盟官方赛事.png",英雄联盟官方赛事
-https://live.ottiptv.cc/bilibili/6
+#EXTINF:-1 tvg-id="bili_bili-57967" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="B站直播",CCTV-13 新闻
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/473623/live_8698483_7312504.flv?expires=1791836631&pt=web&deadline=1791836631&len=0&oi=2869765211&platform=web&qn=10000&trid=10005536d6b2eb0ae9146b3d0569136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=70f194b88d653a941ccfa36074bd0981&site=bc66a0eb06b0ba4769887b0358a41eba&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&pp=&deploy_env=prod&source=puv3_onetier&suffix=origin&p2p_type=1&media_type=0&hdr_type=0&origin_bitrate=0&sl=1&sk=11cbdc068c98e9015f8e76d363282991&hot_cdn=0&score=1&info_source=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22298077" tvg-name="CCTV-2 财经" tvg-logo="" group-title="B站直播",CCTV-2 财经
+https://cn-hnld-ct-01-17.bilivideo.com/live-bvc/722536/live_382112327_23121165.flv?expires=1791836631&pt=web&deadline=1791836631&len=0&oi=2869765211&platform=web&qn=10000&trid=10005c2d8880a113ed2656ecb99cdc6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=503e2006f34ae31e9526db41ffd817b9&site=bc66a0eb06b0ba4769887b0358a41eba&free_type=0&mid=0&sche=ban&sid=cn-hnld-ct-01-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&deploy_env=prod&p2p_type=1&score=1&sk=fac52403a019671ca0f436e419c80014&hdr_type=0&hot_cdn=0&source=puv3_onetier&media_type=0&pp=&suffix=origin&sl=1&origin_bitrate=0&info_source=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22298079" tvg-name="CCTV-3 综艺" tvg-logo="" group-title="B站直播",CCTV-3 综艺
+https://d1--cn-gotcha07.bilivideo.com/live-bvc/771347/live_369491730_3601746.flv?expires=1791836632&len=0&oi=2869765211&pt=web&qn=10000&trid=10004a83522d9ef7a7ff18ea58820d6acd33&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha07&sign=5acacf35afd235ae385b22df6ae07e53&site=5a030d509d0991e02aa213f2112e1c9d&free_type=0&mid=0&sche=ban&trace=16&isp=ct&rg=Central&pv=Henan&p2p_type=1&pp=&hot_cdn=0&info_source=origin&sl=1&score=1&origin_bitrate=0&hdr_type=0&media_type=0&source=puv3_onetier&suffix=origin&deploy_env=prod&sk=fac52403a019671ca0f436e419c80014&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-57968" tvg-name="东方卫视" tvg-logo="" group-title="B站直播",东方卫视
+https://cn-hnld-ct-01-18.bilivideo.com/live-bvc/102479/live_3723908_1687320.flv?expires=1791836632&pt=web&deadline=1791836632&len=0&oi=2869765211&platform=web&qn=10000&trid=10001ee185e7928dff1d5499587d0d6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=f3b952605eeae5274d0faa77d0cfe167&site=5a030d509d0991e02aa213f2112e1c9d&free_type=0&mid=0&sche=ban&sid=cn-hnld-ct-01-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&deploy_env=prod&p2p_type=1&hot_cdn=0&origin_bitrate=0&hdr_type=0&media_type=0&info_source=origin&score=1&source=puv3_onetier&pp=&sk=fac52403a019671ca0f436e419c80014&suffix=origin&sl=1&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-57969" tvg-name="湖南卫视" tvg-logo="" group-title="B站直播",湖南卫视
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/954984/live_1721665_1631497.flv?expires=1791836633&pt=web&deadline=1791836633&len=0&oi=2869765211&platform=web&qn=10000&trid=100074a7621f963bf3dc0f5a5272136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=2c65a0703c2efb950f271ed94cbc9750&site=b395e644bfe6303f12c910f815fe44ed&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&media_type=0&p2p_type=1&origin_bitrate=0&deploy_env=prod&pp=&sl=1&hdr_type=0&suffix=origin&hot_cdn=0&sk=fac52403a019671ca0f436e419c80014&score=1&info_source=origin&source=puv3_onetier&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-57970" tvg-name="浙江卫视" tvg-logo="" group-title="B站直播",浙江卫视
+https://cn-hnld-ct-01-17.bilivideo.com/live-bvc/322322/live_20049958_6023946.flv?expires=1791836633&pt=web&deadline=1791836633&len=0&oi=2869765211&platform=web&qn=10000&trid=100049a62b344fc9f2fb1ad7ea730d6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=7e6878f9f17963444ec85f5fbd9f42dc&site=b395e644bfe6303f12c910f815fe44ed&free_type=0&mid=0&sche=ban&sid=cn-hnld-ct-01-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&deploy_env=prod&source=puv3_onetier&suffix=origin&sk=19f80327b01de979ec7c4d98e8aa1e7f&pp=&hot_cdn=0&p2p_type=1&hdr_type=0&score=1&origin_bitrate=0&sl=1&info_source=origin&media_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22298081" tvg-name="江苏卫视" tvg-logo="" group-title="B站直播",江苏卫视
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/443806/live_26718288_12034078.flv?expires=1791836634&len=0&oi=2869765211&pt=web&qn=10000&trid=1000743eed923baa2ac70a9e44300d6acd33&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha04&sign=f7b83e8859c0c13ea6dc41fec6478395&site=78dcd858ec0eb8fd448d3c1a8785394c&free_type=0&mid=0&sche=ban&trace=16&isp=ct&rg=Central&pv=Henan&source=puv3_onetier&p2p_type=1&suffix=origin&sk=fac52403a019671ca0f436e419c80014&media_type=0&sl=1&pp=&hot_cdn=0&origin_bitrate=0&hdr_type=0&info_source=origin&score=1&deploy_env=prod&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22298083" tvg-name="北京卫视" tvg-logo="" group-title="B站直播",北京卫视
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/797567/live_9zk6q1_SxiKEF3_r16gx.flv?expires=1791836634&pt=web&deadline=1791836634&len=0&oi=2869765211&platform=web&qn=10000&trid=10001c0f41ba2d78779362a64931ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=29b3f19bacd87968a58453c659f3b99b&site=78dcd858ec0eb8fd448d3c1a8785394c&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&hot_cdn=0&info_source=origin&sl=1&source=puv3_onetier&pp=&origin_bitrate=0&score=1&sk=49c44e4db37ddefbdeb838de7376a382&p2p_type=1&deploy_env=prod&hdr_type=0&suffix=origin&media_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22312929" tvg-name="广东卫视" tvg-logo="" group-title="B站直播",广东卫视
+https://ec-jssz-ct-01-01.bilivideo.com/live-bvc/100740/live_596138461_50386421.flv?expires=1791836635&pt=web&deadline=1791836635&len=0&oi=2869765211&platform=web&qn=10000&trid=100031727042ee0ad81009a8a11a136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=787f087e5d562d730224aa1990ebe958&site=90905a3e15e97deca3cb0da40330013d&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-01&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&info_source=origin&hdr_type=0&pp=&media_type=0&source=puv3_onetier&suffix=origin&sk=fac52403a019671ca0f436e419c80014&sl=1&score=1&deploy_env=prod&p2p_type=1&origin_bitrate=0&hot_cdn=0&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22312931" tvg-name="山东卫视" tvg-logo="" group-title="B站直播",山东卫视
+https://cn-hnld-ct-01-17.bilivideo.com/live-bvc/794430/live_98804208_57317730.flv?expires=1791836635&pt=web&deadline=1791836635&len=0&oi=2869765211&platform=web&qn=10000&trid=1000561df9667c075006779b5810ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=5690cb1006595fae357604fb966f34e3&site=90905a3e15e97deca3cb0da40330013d&free_type=0&mid=0&sche=ban&sid=cn-hnld-ct-01-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&sk=fac52403a019671ca0f436e419c80014&score=1&origin_bitrate=0&pp=&sl=1&hdr_type=0&info_source=origin&media_type=0&source=puv3_onetier&deploy_env=prod&hot_cdn=0&suffix=origin&p2p_type=1&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21777276" tvg-name="哔哩哔哩英雄联盟赛事" tvg-logo="" group-title="B站直播",哔哩哔哩英雄联盟赛事
+https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/131592/live_338970910_46334226.flv?expires=1791836636&pt=web&deadline=1791836636&len=0&oi=2869765211&platform=web&qn=10000&trid=1000764abe82a2e7abf40f27a9dedc6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=88f44e1fc0b23538823108ef6c971d80&site=491c6621143c50a316c1deada658b024&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&suffix=origin&pp=&deploy_env=prod&info_source=origin&source=puv3_onetier&media_type=0&sk=fac52403a019671ca0f436e419c80014&p2p_type=1&origin_bitrate=0&hot_cdn=0&score=1&sl=1&hdr_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21401711" tvg-name="knight" tvg-logo="" group-title="B站直播",knight
+https://cn-jsyz-ct-03-17.bilivideo.com/live-bvc/920954/live_412564429_60202667.flv?expires=1791836637&pt=web&deadline=1791836637&len=0&oi=2869765211&platform=web&qn=10000&trid=10001f22d046dea59abe1a8552cfba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=7e0683220874114b5dea065d4400f411&site=f6883bb996292248bba12fed9d9f144f&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&source=puv3_onetier&media_type=0&p2p_type=1&pp=&score=1&info_source=origin&deploy_env=prod&sl=1&hot_cdn=0&origin_bitrate=0&hdr_type=0&sk=fac52403a019671ca0f436e419c80014&suffix=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21401709" tvg-name="Elk" tvg-logo="" group-title="B站直播",Elk
+https://ec-jssz-ct-01-17.bilivideo.com/live-bvc/707118/live_406790945_46849281.flv?expires=1791836637&pt=web&deadline=1791836637&len=0&oi=2869765211&platform=web&qn=10000&trid=10007b8e71e7d537e7e74a8058b9dc6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=66db70ca21e36bb580dea4b8433d928d&site=f6883bb996292248bba12fed9d9f144f&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&score=1&deploy_env=prod&media_type=0&hot_cdn=0&pp=&info_source=origin&p2p_type=1&sk=fac52403a019671ca0f436e419c80014&sl=1&suffix=origin&hdr_type=0&source=puv3_onetier&origin_bitrate=0&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-25277646" tvg-name="BLG_whzy" tvg-logo="" group-title="B站直播",BLG_whzy
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/489195/live_5vef19_STgKk3c_pcxnx.flv?expires=1791836637&pt=web&deadline=1791836637&len=0&oi=2869765211&platform=web&qn=10000&trid=10006e606c7ed0b1baec1a2865ee0d6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=4d573a7c60d592f7116c2e7829036a6b&site=f6883bb996292248bba12fed9d9f144f&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&media_type=0&sl=1&suffix=origin&hot_cdn=0&source=puv3_onetier&pp=&info_source=origin&p2p_type=1&sk=f4e41df3008591b4021ca4347452bf8b&hdr_type=0&score=1&origin_bitrate=3759&deploy_env=prod&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-22994638" tvg-name="Jinggg" tvg-logo="" group-title="B站直播",Jinggg
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/583412/live_188879880_65182544.flv?expires=1791836638&pt=web&deadline=1791836638&len=0&oi=2869765211&platform=web&qn=10000&trid=10001f064fb5afaeac587dbc46bf136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=e44e0d04d4f397f7b83d1011f3422c24&site=4e3a985ca6219d1eb5a139731eabaf18&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&pp=&sl=1&hot_cdn=0&origin_bitrate=0&hdr_type=0&p2p_type=1&source=puv3_onetier&suffix=origin&sk=00adca103831458a32046b582edfb384&media_type=0&score=1&deploy_env=prod&info_source=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21778027" tvg-name="EDG无畏契约官方" tvg-logo="" group-title="B站直播",EDG无畏契约官方
+https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/358681/live_6lqglb_Sp9I3fu_25ybw.flv?expires=1791836638&pt=web&deadline=1791836638&len=0&oi=2869765211&platform=web&qn=10000&trid=10007e79bc979703738a1edd5ee4dc6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=8a80471a9aef18abd58935bd921155b7&site=4e3a985ca6219d1eb5a139731eabaf18&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&hdr_type=0&suffix=origin&media_type=0&source=puv3_onetier&pp=&origin_bitrate=0&score=1&sk=e198e27dbe82c86c2a08332845a51160&p2p_type=1&hot_cdn=0&info_source=origin&sl=1&deploy_env=prod&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-12021" tvg-name="树叶" tvg-logo="" group-title="B站直播",树叶
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/761515/live_45r9d_332_SSd4Ufv_c521e483.flv?expires=1791836639&pt=web&deadline=1791836639&len=0&oi=2869765211&platform=web&qn=10000&trid=10000978beb7fc5980f22a592bdfba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=fbbbef2986ec5cc21c8a16251bfa60ca&site=bb9d437d1c2d8ddd4e771f32e21b9345&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&p2p_type=1&deploy_env=prod&suffix=origin&origin_bitrate=0&sl=1&score=1&info_source=origin&pp=&hdr_type=0&hot_cdn=0&sk=6b6119a74c95789ab8e41c6a15995a2e&media_type=0&source=puv3_onetier&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-515200" tvg-name="故氏" tvg-logo="" group-title="B站直播",故氏
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/688225/live_1714446_3014887.flv?expires=1791836639&pt=web&deadline=1791836639&len=0&oi=2869765211&platform=web&qn=10000&trid=100064ba7fd13df28d81409b08fb136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=b17e6d18389bd48db53a24713d1b82ee&site=bb9d437d1c2d8ddd4e771f32e21b9345&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&sk=fac52403a019671ca0f436e419c80014&source=puv3_onetier&deploy_env=prod&hot_cdn=0&suffix=origin&score=1&origin_bitrate=0&sl=1&p2p_type=1&media_type=0&pp=&hdr_type=0&info_source=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21432112" tvg-name="小百兽" tvg-logo="" group-title="B站直播",小百兽
+https://ec-jssz-ct-01-07.bilivideo.com/live-bvc/834170/live_432952942_27964650.flv?expires=1791836640&pt=web&deadline=1791836640&len=0&oi=2869765211&platform=web&qn=10000&trid=100034f2e22f2a084ad74e030efc0d6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=08dae163de85978cc2795fabf61703c8&site=61cb15530d4c975c7fb4629861f0b685&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-07&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&sk=fac52403a019671ca0f436e419c80014&suffix=origin&deploy_env=prod&p2p_type=1&pp=&score=1&info_source=origin&source=puv3_onetier&media_type=0&hot_cdn=0&hdr_type=0&origin_bitrate=0&sl=1&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-11021" tvg-name="AG超玩会梦泪" tvg-logo="" group-title="B站直播",AG超玩会梦泪
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/936543/live_1530147_332_c521e483.flv?expires=1791836640&pt=web&deadline=1791836640&len=0&oi=2869765211&platform=web&qn=10000&trid=100059cdcddda56f408b3374b6a2556acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=85395553b707ab8c6a4e3972f7a5d3c4&site=61cb15530d4c975c7fb4629861f0b685&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&hot_cdn=0&source=puv3_onetier&origin_bitrate=0&sk=ae6c03b7c515e54d90c7de55d8023b60&pp=&p2p_type=1&sl=1&info_source=origin&hdr_type=0&score=1&suffix=origin&deploy_env=prod&media_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-171757" tvg-name="你的影月月" tvg-logo="" group-title="B站直播",你的影月月
+https://cn-jsyz-ct-03-17.bilivideo.com/live-bvc/415449/live_22769779_1409798.flv?expires=1791836640&pt=web&deadline=1791836640&len=0&oi=2869765211&platform=web&qn=10000&trid=10002c23394a696a8f54682671b8dc6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=5e76b580e206c7d3edd8366a424b89df&site=61cb15530d4c975c7fb4629861f0b685&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&score=1&hdr_type=0&source=puv3_onetier&pp=&hot_cdn=0&info_source=origin&sl=1&media_type=0&origin_bitrate=0&deploy_env=prod&sk=fac52403a019671ca0f436e419c80014&p2p_type=1&suffix=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-11530" tvg-name="老戴在此" tvg-logo="" group-title="B站直播",老戴在此
+https://cn-hnld-ct-01-17.bilivideo.com/live-bvc/255377/live_1989350_1248122.flv?expires=1791836641&pt=web&deadline=1791836641&len=0&oi=2869765211&platform=web&qn=10000&trid=10007d4a63cf80782b1657dae7f4ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=02259d77fcf8f3165c11eea5a8c327d9&site=a631f622b0521ed46e9e67bb3d1a8d1a&free_type=0&mid=0&sche=ban&sid=cn-hnld-ct-01-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&sk=fac52403a019671ca0f436e419c80014&hot_cdn=0&score=1&media_type=0&origin_bitrate=0&deploy_env=prod&source=puv3_onetier&suffix=origin&info_source=origin&sl=1&hdr_type=0&pp=&p2p_type=1&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-133217" tvg-name="Zc" tvg-logo="" group-title="B站直播",Zc
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/890993/live_6818246_4225331.flv?expires=1791836642&pt=web&deadline=1791836642&len=0&oi=2869765211&platform=web&qn=10000&trid=100060c7b33808a884ae173117560d6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=f405fe4acd41122f9241cfa239f5a170&site=6371cc35c8ebb88cc1d2c823e2d00ee8&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&suffix=origin&score=1&deploy_env=prod&sk=fac52403a019671ca0f436e419c80014&source=puv3_onetier&p2p_type=1&pp=&hot_cdn=0&origin_bitrate=0&hdr_type=0&sl=1&media_type=0&info_source=origin&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21388305" tvg-name="小阿sir" tvg-logo="" group-title="B站直播",小阿sir
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/596089/live_51c6on_SUjuvtV_yn0jz.flv?expires=1791836642&pt=web&deadline=1791836642&len=0&oi=2869765211&platform=web&qn=10000&trid=1000332f12505a9e9ef071de3ef9136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=78ad2e66e3afbf4edf9db3f8208f990f&site=6371cc35c8ebb88cc1d2c823e2d00ee8&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&media_type=0&origin_bitrate=0&p2p_type=1&hot_cdn=0&source=puv3_onetier&info_source=origin&score=1&deploy_env=prod&hdr_type=0&sk=793c906d78b9a0de2f7c59e9d7da45be&pp=&suffix=origin&sl=1&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-11332" tvg-name="Asaki大人" tvg-logo="" group-title="B站直播",Asaki大人
+https://d1--cn-gotcha07.bilivideo.com/live-bvc/264264/live_2265299_332_c521e483.flv?expires=1791836643&len=0&oi=2869765211&pt=web&qn=10000&trid=10001debde58b2263d9f3c63bd8adc6acd33&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha07&sign=085dfd82ed8483f56abb8d7b48337c7d&site=4f1a47776bc5a28c2e384e8e128cd48b&free_type=0&mid=0&sche=ban&trace=16&isp=ct&rg=Central&pv=Henan&deploy_env=prod&sl=1&origin_bitrate=0&score=1&info_source=origin&hdr_type=0&sk=ad9f272739d3a09bbaf57804a65e8e21&source=puv3_onetier&media_type=0&hot_cdn=0&p2p_type=1&pp=&suffix=origin&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-13329" tvg-name="籽岷" tvg-logo="" group-title="B站直播",籽岷
+https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/569935/live_7815_332_c521e483.flv?expires=1791836643&pt=web&deadline=1791836643&len=0&oi=2869765211&platform=web&qn=10000&trid=10007bc6802fd2ac40f7408b88a3ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=19888c0f4c1a1522a48272364d14cc1d&site=4f1a47776bc5a28c2e384e8e128cd48b&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&score=1&origin_bitrate=0&suffix=origin&sk=fac52403a019671ca0f436e419c80014&info_source=origin&deploy_env=prod&pp=&hot_cdn=0&sl=1&media_type=0&p2p_type=1&hdr_type=0&source=puv3_onetier&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-27452" tvg-name="鲤鱼Ace" tvg-logo="" group-title="B站直播",鲤鱼Ace
+https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/466787/live_4ize9_Sg02gIN_3uu7m.flv?expires=1791836644&pt=web&deadline=1791836644&len=0&oi=2869765211&platform=web&qn=10000&trid=100029bf6f6ebd9e50c75426cc17136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=c3afda7337745ae9bcb6e522d0049404&site=ce1cf02b08be7eedaccd2815cdd5492d&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&suffix=origin&info_source=origin&sk=be2f74cedc7669b1009ac6e026600f69&deploy_env=prod&source=puv3_onetier&hot_cdn=0&p2p_type=1&score=1&hdr_type=0&media_type=0&pp=&sl=1&origin_bitrate=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-10003" tvg-name="薄海纸鱼" tvg-logo="" group-title="B站直播",薄海纸鱼
+https://ec-jssz-ct-01-03.bilivideo.com/live-bvc/933287/live_3271545_8502196.flv?expires=1791836644&pt=web&deadline=1791836644&len=0&oi=2869765211&platform=web&qn=10000&trid=100027edff5ab9fe607d764df4a0556acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=c7e1ede7441fb53d8517d43b4e056992&site=ce1cf02b08be7eedaccd2815cdd5492d&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-03&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&sk=fac52403a019671ca0f436e419c80014&sl=1&hdr_type=0&origin_bitrate=0&score=1&p2p_type=1&info_source=origin&pp=&suffix=origin&deploy_env=prod&hot_cdn=0&source=puv3_onetier&media_type=0&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-10110" tvg-name="逆风笑" tvg-logo="" group-title="B站直播",逆风笑
+https://ec-jssz-ct-01-18.bilivideo.com/live-bvc/302902/live_3387771_3994955.flv?expires=1791836645&pt=web&deadline=1791836645&len=0&oi=2869765211&platform=web&qn=10000&trid=10000e05c3b55ef7fe5a592172b3556acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=7ca76434e8fe32dd8ec784edc8296d0e&site=2babc12ab1d95b5a786a45498a174b12&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&hot_cdn=0&suffix=origin&deploy_env=prod&info_source=origin&sl=1&origin_bitrate=0&source=puv3_onetier&score=1&hdr_type=0&media_type=0&p2p_type=1&pp=&sk=fac52403a019671ca0f436e419c80014&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-11984" tvg-name="神奇的老皮" tvg-logo="" group-title="B站直播",神奇的老皮
+https://d1--cn-gotcha07.bilivideo.com/live-bvc/562349/live_312394_332_c521e483.flv?expires=1791836646&len=0&oi=2869765211&pt=web&qn=10000&trid=100016734d2c2cb181b37bca13c3556acd33&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha07&sign=9172f62c80d5d2a8f9b46f2ae6183a8d&site=7685a3f6a67d5da0b74f5a69a0aa4f1d&free_type=0&mid=0&sche=ban&trace=16&isp=ct&rg=Central&pv=Henan&source=puv3_onetier&hot_cdn=0&sk=e7662e68e888bfe68ebb66427f092f5e&suffix=origin&media_type=0&pp=&sl=1&score=1&info_source=origin&deploy_env=prod&p2p_type=1&origin_bitrate=0&hdr_type=0&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-7777" tvg-name="茄子" tvg-logo="" group-title="B站直播",茄子
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/567448/live_57bf9_SApjwiE_27l4b_2500.flv?expires=1791836646&len=0&oi=2869765211&pt=web&qn=250&trid=10006821038e88ebd5e35aa2d046ba6acd33&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha04&sign=9b314ad4b3744cffb8c47ee2502a1ea4&site=7685a3f6a67d5da0b74f5a69a0aa4f1d&free_type=0&mid=0&sche=ban&trace=16&isp=ct&rg=Central&pv=Henan&hot_cdn=909773&deploy_env=prod&media_type=0&suffix=2500&hdr_type=0&sk=7b9ca197a822eebb7933bf2a49b49d0ff5c7de06a830c23b53458fa3039a22e2&sl=8&score=100&pp=rtmp&p2p_type=1&origin_bitrate=1265&info_source=hot_cache&codec=0&source=puv3_onetier&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-147741" tvg-name="玩机器Machine" tvg-logo="" group-title="B站直播",玩机器Machine
+https://ec-jssz-ct-01-18.bilivideo.com/live-bvc/579393/live_23587813_6072745.flv?expires=1791836647&pt=web&deadline=1791836647&len=0&oi=2869765211&platform=web&qn=10000&trid=100065eb13c296b32e9261b5a0b2556acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=8f69bf9faba4005372e3e7e836d62ce0&site=63d55d5125688a7b975b2ad2d758dffa&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&media_type=0&origin_bitrate=0&suffix=origin&sl=1&hdr_type=0&deploy_env=prod&pp=&info_source=origin&score=1&sk=fac52403a019671ca0f436e419c80014&source=puv3_onetier&p2p_type=1&hot_cdn=0&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-12142" tvg-name="若竹" tvg-logo="" group-title="B站直播",若竹
+https://ec-jssz-ct-01-14.bilivideo.com/live-bvc/748128/live_935759_332_c521e483.flv?expires=1791836647&pt=web&deadline=1791836647&len=0&oi=2869765211&platform=web&qn=10000&trid=10001d86f206b88b25f019f9743a556acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=a18e859782424bf6bac99b321ec3a405&site=63d55d5125688a7b975b2ad2d758dffa&free_type=0&mid=0&sche=ban&sid=ec-jssz-ct-01-14&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&pp=&suffix=origin&sl=1&hdr_type=0&deploy_env=prod&sk=fac52403a019671ca0f436e419c80014&origin_bitrate=0&hot_cdn=0&p2p_type=1&info_source=origin&media_type=0&score=1&source=puv3_onetier&vd=dec&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-10712" tvg-name="香香" tvg-logo="" group-title="B站直播",香香
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/906556/live_618423_6115409.flv?expires=1791836648&pt=web&deadline=1791836648&len=0&oi=2869765211&platform=web&qn=10000&trid=100015cc4eedbaa8e59209fc91f4ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=be42475e8102567fb4b8939bf2e02b43&site=031c39bfdf3f0f466b37a3a63df5562e&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&hot_cdn=0&origin_bitrate=0&score=1&sl=1&suffix=origin&deploy_env=prod&info_source=origin&p2p_type=1&source=puv3_onetier&media_type=0&pp=&sk=fac52403a019671ca0f436e419c80014&hdr_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-10377" tvg-name="突击手蜜獾" tvg-logo="" group-title="B站直播",突击手蜜獾
+https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/229090/live_290583_332_c521e483.flv?expires=1791836648&pt=web&deadline=1791836648&len=0&oi=2869765211&platform=web&qn=10000&trid=10005c2aa8418eb74ede686b7e56dc6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=081a3e535ebd32286fa3034854b43ae4&site=031c39bfdf3f0f466b37a3a63df5562e&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&pp=&hdr_type=0&suffix=origin&origin_bitrate=0&info_source=origin&deploy_env=prod&sl=1&hot_cdn=0&score=1&source=puv3_onetier&sk=ce3fe4df75c71a6a4634aa9f42329323&p2p_type=1&media_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-11741" tvg-name="小豪" tvg-logo="" group-title="B站直播",小豪
+https://cn-jsyz-ct-03-17.bilivideo.com/live-bvc/611206/live_dth0_Sh2imA7_47oek.flv?expires=1791836648&pt=web&deadline=1791836648&len=0&oi=2869765211&platform=web&qn=10000&trid=10005cb2b6f3916808ec56d120fd0d6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=83a2d333ee87f276702c4e54f67ccfd1&site=031c39bfdf3f0f466b37a3a63df5562e&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&p2p_type=1&hot_cdn=0&source=puv3_onetier&sl=1&hdr_type=0&media_type=0&origin_bitrate=0&sk=bf2dbbb25a8941cf77d021f3792cc65f&deploy_env=prod&score=1&suffix=origin&info_source=origin&pp=&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-462" tvg-name="老骚豆腐" tvg-logo="" group-title="B站直播",老骚豆腐
+https://ec-ahhf-ct-01-01.bilivideo.com/live-bvc/567453/live_2q4qp_SdmJ2Hm_5k6fs_2500.flv?expires=1791836649&pt=web&deadline=1791836649&len=0&oi=2869765211&platform=web&qn=250&trid=100032e47ee0778ec7176379728fdc6acd33&uipk=100&uipv=100&nbs=1&bmt=2&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=818e895a718e09b2a40bc844ea9efd5e&site=315ece0d98ab19fd89982086f3d4e08d&free_type=0&mid=0&sche=ban&sid=ec-ahhf-ct-01-01&chash=1&sg=lr&trace=8388625&isp=ct&rg=Central&pv=Henan&p2p_type=1&origin_bitrate=893&pp=rtmp&sk=ee3c857f8c90147a81eb07759f60ea68&info_source=hot_cache&hdr_type=0&codec=0&hot_cdn=909773&suffix=2500&deploy_env=prod&source=puv3_onetier&media_type=0&score=69&sl=7&vd=dec&zoneid_l=151388161&sid_l=live_2q4qp_SdmJ2Hm_5k6fs_2500&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-14414" tvg-name="杨某人" tvg-logo="" group-title="B站直播",杨某人
+https://cn-jsyz-ct-03-18.bilivideo.com/live-bvc/108537/live_2917005_332_c521e483.flv?expires=1791836649&pt=web&deadline=1791836649&len=0&oi=2869765211&platform=web&qn=10000&trid=10002cbcbe1a0c93eadd42cbbb8b556acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=7d0658cecda72dd43e74570b94e65d08&site=315ece0d98ab19fd89982086f3d4e08d&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-18&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&deploy_env=prod&suffix=origin&score=1&source=puv3_onetier&pp=&hot_cdn=0&hdr_type=0&p2p_type=1&sk=fac52403a019671ca0f436e419c80014&sl=1&info_source=origin&origin_bitrate=0&media_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21777306" tvg-name="KPL王者荣耀赛事" tvg-logo="" group-title="B站直播",KPL王者荣耀赛事
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/768391/live_437130792_74686796.flv?expires=1791836650&pt=web&deadline=1791836650&len=0&oi=2869765211&platform=web&qn=10000&trid=10002222da5910a0456534527a97ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=92a3b1d832a9a648ee4cdc63ad48844c&site=1f8c5df833bd9bd0635289838c66a56f&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&source=puv3_onetier&score=1&deploy_env=prod&hot_cdn=0&suffix=origin&pp=&sk=9b072180d028466009f2bc2270e30df5&media_type=0&p2p_type=1&hdr_type=0&sl=1&info_source=origin&origin_bitrate=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-21777314" tvg-name="IVL第五人格赛事" tvg-logo="" group-title="B站直播",IVL第五人格赛事
+https://cn-jsyz-ct-03-20.bilivideo.com/live-bvc/995200/live_1649084_54500731.flv?expires=1791836650&pt=web&deadline=1791836650&len=0&oi=2869765211&platform=web&qn=10000&trid=1000713216c00ac3e65053501105136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=09ed86bb2efeb744062235eb76487a5d&site=1f8c5df833bd9bd0635289838c66a56f&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-20&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&info_source=origin&suffix=origin&sl=1&pp=&source=puv3_onetier&hot_cdn=0&sk=fac52403a019671ca0f436e419c80014&p2p_type=1&score=1&hdr_type=0&origin_bitrate=0&deploy_env=prod&media_type=0&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-5236391" tvg-name="大东彦" tvg-logo="" group-title="B站直播",大东彦
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/818935/live_2z3emm_S58PSVv_3c9pu.flv?expires=1791836651&pt=web&deadline=1791836651&len=0&oi=2869765211&platform=web&qn=10000&trid=100000ca32c407e147e803340a9c136acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=43dd9b5ec2fc246f676c1ae20076574e&site=9d28ef3750e8d116c03ac7adf7dd4a72&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=0&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&sl=1&hot_cdn=909701&pp=rtmp&suffix=origin&deploy_env=prod&score=1&p2p_type=1&info_source=origin&media_type=0&origin_bitrate=7977&hdr_type=0&source=puv3_onetier&sk=cd3114bbff39d4aa7c51dfd38138b762&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-24160384" tvg-name="夜莲Annbbers" tvg-logo="" group-title="B站直播",夜莲Annbbers
+https://cn-jsyz-ct-03-19.bilivideo.com/live-bvc/154629/live_qy551h_SATLwBn_3da9v.flv?expires=1791836651&pt=web&deadline=1791836651&len=0&oi=2869765211&platform=web&qn=10000&trid=100079fa22f99c2ebdf84b32039fba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=dc211f313f16ab2eea14a48b18db9c83&site=9d28ef3750e8d116c03ac7adf7dd4a72&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-19&chash=0&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&info_source=origin&sk=bede16a249e7e1638e5c73a0d7c3fae3&score=1&origin_bitrate=7969&deploy_env=prod&hot_cdn=852356&suffix=origin&p2p_type=1&source=puv3_onetier&media_type=0&pp=rtmp&hdr_type=0&sl=1&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
+#EXTINF:-1 tvg-id="bili_bili-42062" tvg-name="瓶子君152" tvg-logo="" group-title="B站直播",瓶子君152
+https://cn-jsyz-ct-03-17.bilivideo.com/live-bvc/787843/live_fnu4_SzN51FT_19l5o.flv?expires=1791836651&pt=web&deadline=1791836651&len=0&oi=2869765211&platform=web&qn=10000&trid=10003e1421595eaa0af02fd4fd61ba6acd33&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=5699798932fa229699923f7fd96fc4db&site=9d28ef3750e8d116c03ac7adf7dd4a72&free_type=0&mid=0&sche=ban&sid=cn-jsyz-ct-03-17&chash=1&sg=lr&trace=8388633&isp=ct&rg=Central&pv=Henan&info_source=hot_cache&sk=7b9ca197a822eebb7933bf2a49b49d0f9d931e97f12e386e04abc4979f44c77f&p2p_type=1&suffix=origin&score=1&sl=1&hot_cdn=909709&pp=&origin_bitrate=6014&media_type=0&hdr_type=0&deploy_env=prod&source=puv3_onetier&vd=nc&zoneid_l=151388161&sid_l=stream_name_cold&src=puv3&order=1
