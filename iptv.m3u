@@ -404,5 +404,15 @@ http://173.208.212.130:8181/720p/hnmin.m3u8
 http://173.208.212.130:8181/720p/hngg.m3u8
 #EXTINF:-1 tvg-id="河南电视剧频道" group-title="地方台" tvg-logo="https://epg.pw/logos/河南电视剧频道.png",河南电视剧频道
 http://173.208.212.130:8181/720p/hndsj.m3u8
+#EXTINF:-1 tvg-id="福建都市频道" group-title="地方台" tvg-logo="https://epg.pw/logos/福建都市频道.png",福建都市频道
+http://173.208.212.130:8181/720p/fjds.m3u8
+#EXTINF:-1 tvg-id="福建新闻频道" group-title="地方台" tvg-logo="https://epg.pw/logos/福建新闻频道.png",福建新闻频道
+http://173.208.212.130:8181/720p/fjxw.m3u8
+#EXTINF:-1 tvg-id="四川影视文艺频道" group-title="地方台" tvg-logo="https://epg.pw/logos/四川影视文艺频道.png",四川影视文艺频道
+http://173.208.212.130:8181/720p/scys.m3u8
+#EXTINF:-1 tvg-id="新疆新闻频道" group-title="地方台" tvg-logo="https://epg.pw/logos/新疆新闻频道.png",新疆新闻频道
+http://173.208.212.130:8181/720p/xjxw.m3u8
+#EXTINF:-1 tvg-id="江西都市频道" group-title="地方台" tvg-logo="https://epg.pw/logos/江西都市频道.png",江西都市频道
+http://173.208.212.130:8181/720p/jxtv2.m3u8
 #EXTINF:-1 tvg-id="英雄联盟官方赛事" group-title="B站直播" tvg-logo="英雄联盟官方赛事.png",英雄联盟官方赛事
 https://live.ottiptv.cc/bilibili/6
