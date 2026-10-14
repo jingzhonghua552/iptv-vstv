@@ -344,6 +344,18 @@ http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="重庆新闻频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆新闻频道.png",重庆新闻频道
 http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="cetv1" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV-1 教育综合.png",CETV-1 教育综合
+http://198.204.228.26/live/cetv1hd.m3u8
+#EXTINF:-1 tvg-id="cetv3" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV-3 人文教育.png",CETV-3 人文教育
+http://107.150.60.122/live/cetv3.m3u8
+#EXTINF:-1 tvg-id="广州综合" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59c
+#EXTINF:-1 tvg-id="广州新闻" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png",广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b56237284
+#EXTINF:-1 tvg-id="广西国际频道" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西国际频道.png",广西国际频道
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 tvg-id="tvbs新闻台" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS 新闻台.png",TVBS 新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="英雄联盟官方赛事" group-title="B站直播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/英雄联盟官方赛事.png",英雄联盟官方赛事
 https://live.ottiptv.cc/bilibili/6
 #EXTINF:-1 tvg-id="cctv4中文国际" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-4 中文国际.png",CCTV-4 中文国际
