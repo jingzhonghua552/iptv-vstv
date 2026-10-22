@@ -467,8 +467,6 @@ http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="457316" group-title="港澳台",爱尔达影剧台
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-id="卫视中文台" group-title="港澳台",卫视中文台
-http://61.221.215.25:8800/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="410289" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KBSWORLD.png",KBS World
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="410297" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DMAX.png",DMAX
