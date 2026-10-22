@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="merged-cn-hk-tw">
+<channel id="539635">
+    <display-name lang="CN">江苏影视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539641">
+    <display-name lang="CN">云南卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539644">
+    <display-name lang="CN">宁夏卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539646">
+    <display-name lang="CN">山西影视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539648">
+    <display-name lang="CN">黑龙江新闻法治</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539650">
+    <display-name lang="CN">山东教育卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539658">
+    <display-name lang="CN">天津都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539659">
+    <display-name lang="CN">海南卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539679">
+    <display-name lang="CN">浙江教科影视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539683">
+    <display-name lang="CN">天津体育</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539691">
+    <display-name lang="CN">浙江少儿</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539692">
+    <display-name lang="CN">湖北卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539695">
+    <display-name lang="CN">河北卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539697">
+    <display-name lang="CN">陕西卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539698">
+    <display-name lang="CN">广西卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539699">
+    <display-name lang="CN">东方卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539700">
+    <display-name lang="CN">浙江卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539701">
+    <display-name lang="CN">安徽卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539703">
+    <display-name lang="CN">天津卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539707">
+    <display-name lang="CN">山西社会与法治</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539712">
+    <display-name lang="CN">广东卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539715">
+    <display-name lang="CN">江苏综艺</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539717">
+    <display-name lang="CN">东南卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539726">
+    <display-name lang="CN">北京卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539728">
+    <display-name lang="CN">西藏卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539730">
+    <display-name lang="CN">青海卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539731">
+    <display-name lang="CN">湖南卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539735">
+    <display-name lang="CN">河南民生</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539740">
+    <display-name lang="CN">山东卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539742">
+    <display-name lang="CN">广西综艺旅游</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539743">
+    <display-name lang="CN">兵团卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539752">
+    <display-name lang="CN">延边卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539755">
+    <display-name lang="CN">北京生活</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539766">
+    <display-name lang="CN">康巴卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539777">
+    <display-name lang="CN">辽宁卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539779">
+    <display-name lang="CN">重庆新闻</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539785">
+    <display-name lang="CN">天津文艺</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539790">
+    <display-name lang="CN">重庆卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539792">
+    <display-name lang="CN">黑龙江影视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539800">
+    <display-name lang="CN">天津新闻</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539808">
+    <display-name lang="CN">黑龙江文体</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539814">
+    <display-name lang="CN">贵州卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539817">
+    <display-name lang="CN">浙江公共新闻</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539824">
+    <display-name lang="CN">厦门卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539826">
+    <display-name lang="CN">四川卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539830">
+    <display-name lang="CN">海峡卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539831">
+    <display-name lang="CN">新疆卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539834">
+    <display-name lang="CN">江苏卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539835">
+    <display-name lang="CN">黑龙江少儿</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539838">
+    <display-name lang="CN">河南卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539839">
+    <display-name lang="CN">内蒙古卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539843">
+    <display-name lang="CN">山西卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539850">
+    <display-name lang="CN">黑龙江卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539851">
+    <display-name lang="CN">甘肃卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539852">
+    <display-name lang="CN">黑龙江都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539856">
+    <display-name lang="CN">深圳卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539864">
+    <display-name lang="CN">吉林卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539876">
+    <display-name lang="CN">江西卫视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539898">
+    <display-name lang="CN">江苏城市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539904">
+    <display-name lang="CN">浙江钱江都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544270">
+    <display-name lang="CN">浙江经济生活</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544276">
+    <display-name lang="CN">湖南娱乐</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544295">
+    <display-name lang="CN">江西经济生活</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544300">
+    <display-name lang="CN">吉林乡村</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544310">
+    <display-name lang="CN">CCTV怀旧剧场</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544351">
+    <display-name lang="CN">河北农民</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544354">
+    <display-name lang="CN">CCTV第一剧场</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544356">
+    <display-name lang="CN">吉林影视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544364">
+    <display-name lang="CN">山西文体生活</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544374">
+    <display-name lang="CN">吉林生活</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544377">
+    <display-name lang="CN">湖南经视</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544381">
+    <display-name lang="CN">CCTV风云剧场</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544386">
+    <display-name lang="CN">江西都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544390">
+    <display-name lang="CN">CGTN纪录</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544398">
+    <display-name lang="CN">吉林都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="544408">
+    <display-name lang="CN">吉林综艺文化</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545932">
+    <display-name lang="CN">CCTV-1 综合</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545933">
+    <display-name lang="CN">CCTV-2 财经</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545934">
+    <display-name lang="CN">CCTV-3 综艺</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545936">
+    <display-name lang="CN">CCTV-5 体育</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545937">
+    <display-name lang="CN">CCTV-5+ 体育赛事</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545938">
+    <display-name lang="CN">CCTV-6 电影</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545939">
+    <display-name lang="CN">CCTV-7 国防军事</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545940">
+    <display-name lang="CN">CCTV-8 电视剧</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545941">
+    <display-name lang="CN">CCTV-9 纪录</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545942">
+    <display-name lang="CN">CCTV-10 科教</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545943">
+    <display-name lang="CN">CCTV-11 戏曲</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545944">
+    <display-name lang="CN">CCTV-12 社会与法</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545945">
+    <display-name lang="CN">CCTV-13 新闻</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545946">
+    <display-name lang="CN">CCTV-14 少儿</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545947">
+    <display-name lang="CN">CCTV-15 音乐</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545948">
+    <display-name lang="CN">CCTV-16奥林匹克</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545949">
+    <display-name lang="CN">CCTV-17农业农村</display-name>
+    <icon src="" />
+  </channel>
+<channel id="570471">
+    <display-name lang="CN">湖南爱晚</display-name>
+    <icon src="" />
+  </channel>
+<channel id="570479">
+    <display-name lang="CN">河北都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="570481">
+    <display-name lang="CN">河北少儿科教</display-name>
+    <icon src="" />
+  </channel>
+<channel id="570484">
+    <display-name lang="CN">CGTN俄语</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539656">
+    <display-name lang="CN">广西国际</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539669">
+    <display-name lang="CN">广东珠江</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539722">
+    <display-name lang="CN">海南文旅</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539842">
+    <display-name lang="CN">浙江国际</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539846">
+    <display-name lang="CN">上海都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539875">
+    <display-name lang="CN">河南都市</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539891">
+    <display-name lang="CN">浙江民生休闲</display-name>
+    <icon src="" />
+  </channel>
+<channel id="570493">
+    <display-name lang="CN">CGTN法语</display-name>
+    <icon src="" />
+  </channel>
+<channel id="539634">
+    <display-name lang="CN">CCTV4K</display-name>
+    <icon src="" />
+  </channel>
+<channel id="545950">
+    <display-name lang="CN">CCTV-8K</display-name>
+    <icon src="" />
+  </channel>
+<channel id="410355">
+    <display-name lang="HK">鳳凰衛視資訊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
+  </channel>
+<channel id="410376">
+    <display-name lang="HK">大灣區衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129150423126912_45" />
+  </channel>
+<channel id="410378">
+    <display-name lang="HK">鳳凰衛視中文台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129153829170771_55" />
+  </channel>
+<channel id="410381">
+    <display-name lang="HK">三沙衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129160046472283_41" />
+  </channel>
+<channel id="410407">
+    <display-name lang="HK">NBA TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129193737395817_37" />
+  </channel>
+<channel id="370172">
+    <display-name lang="TW">民視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
+  </channel>
+<channel id="370251">
+    <display-name lang="TW">人間衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111732021551_51.png" />
+  </channel>
+<channel id="456536">
+    <display-name lang="TW">中天綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031949990817_28.png" />
+  </channel>
+<channel id="456539">
+    <display-name lang="TW">中天娛樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032053206627_49.png" />
+  </channel>
+<channel id="456555">
+    <display-name lang="TW">三立新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032453282910_33.png" />
+  </channel>
+<channel id="456556">
+    <display-name lang="TW">TVBS 新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032519951049_21.jpg" />
+  </channel>
+<channel id="456557">
+    <display-name lang="TW">TVBS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032546980305_30.jpg" />
+  </channel>
+<channel id="456575">
+    <display-name lang="TW">緯來體育台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png" />
+  </channel>
+<programme channel="539658" start="20261022000000 +0800" stop="20261022003500 +0800">
+    <title lang="zh">津津有味</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539679" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">精彩节目</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539683" start="20261022000000 +0800" stop="20261022020000 +0800">
+    <title lang="zh">体育赛事</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539691" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">精彩节目</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539731" start="20261022000000 +0800" stop="20261022020000 +0800">
+    <title lang="zh">舞蹈新风暴</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539742" start="20261022000000 +0800" stop="20261022011000 +0800">
+    <title lang="zh">法治最前线</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539766" start="20261022000000 +0800" stop="20261022001500 +0800">
+    <title lang="zh">康巴卫视新闻·(藏语)重播</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539814" start="20261022000000 +0800" stop="20261022003000 +0800">
+    <title lang="zh">贵州新闻联播</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539830" start="20261022000000 +0800" stop="20261022004200 +0800">
+    <title lang="zh">重播今日海峡</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539856" start="20261022000000 +0800" stop="20261022001000 +0800">
+    <title lang="zh">湾区财经</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544377" start="20261022000000 +0800" stop="20261022005000 +0800">
+    <title lang="zh">凌晨剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544390" start="20261022000000 +0800" stop="20261022003000 +0800">
+    <title lang="zh">人文地理</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545945" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">午夜新闻</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="570484" start="20261022000000 +0800" stop="20261022004500 +0800">
+    <title lang="zh">放映厅(俄)-女士的法则(俄)-26/38</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539852" start="20261022000200 +0800" stop="20261022053100 +0800">
+    <title lang="zh">凌晨剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545943" start="20261022000220 +0800" stop="20261022060630 +0800">
+    <title lang="zh">青春戏苑-2026-295溯光·晋剧《算粮》专辑</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544398" start="20261022000400 +0800" stop="20261022052500 +0800">
+    <title lang="zh">凌晨剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545940" start="20261022000450 +0800" stop="20261022005050 +0800">
+    <title lang="zh">枫桥警事7/30</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544351" start="20261022000500 +0800" stop="20261022004000 +0800">
+    <title lang="zh">非常帮助(重)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545936" start="20261022000500 +0800" stop="20261022013000 +0800">
+    <title lang="zh">国际足球赛场-26-27赛季英超联赛第4轮 利物浦—富勒姆（4K）</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539701" start="20261022000700 +0800" stop="20261022002200 +0800">
+    <title lang="zh">新安夜空</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539826" start="20261022000700 +0800" stop="20261022005100 +0800">
+    <title lang="zh">巡回检察组(20)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539838" start="20261022000700 +0800" stop="20261022010700 +0800">
+    <title lang="zh">武林风(重播)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539834" start="20261022000800 +0800" stop="20261022002300 +0800">
+    <title lang="zh">阅读阅美第二季</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539698" start="20261022000900 +0800" stop="20261022005200 +0800">
+    <title lang="zh">传奇剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539726" start="20261022000900 +0800" stop="20261022005200 +0800">
+    <title lang="zh">红星剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539707" start="20261022001000 +0800" stop="20261022060000 +0800">
+    <title lang="zh">雄风剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539735" start="20261022001000 +0800" stop="20261022005600 +0800">
+    <title lang="zh">民生棋牌汇</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539779" start="20261022001000 +0800" stop="20261022003300 +0800">
+    <title lang="zh">网罗天下</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="570479" start="20261022001000 +0800" stop="20261022060000 +0800">
+    <title lang="zh">重播栏目</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545939" start="20261022001015 +0800" stop="20261022060300 +0800">
+    <title lang="zh">兵器面面观-2026-210</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544270" start="20261022001100 +0800" stop="20261022011100 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539695" start="20261022001400 +0800" stop="20261022063000 +0800">
+    <title lang="zh">悬崖(39)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545938" start="20261022001455 +0800" stop="20261022001922 +0800">
+    <title lang="zh">铁血阳泉</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539659" start="20261022001500 +0800" stop="20261022005900 +0800">
+    <title lang="zh">午夜剧场:六姊妹</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539703" start="20261022001500 +0800" stop="20261022042000 +0800">
+    <title lang="zh">老家伙(27)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539717" start="20261022001500 +0800" stop="20261022021500 +0800">
+    <title lang="zh">夜间剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539648" start="20261022001600 +0800" stop="20261022034500 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539740" start="20261022001600 +0800" stop="20261022013500 +0800">
+    <title lang="zh">万家灯火</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539699" start="20261022001800 +0800" stop="20261022010000 +0800">
+    <title lang="zh">画眉(38)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544354" start="20261022001800 +0800" stop="20261022070000 +0800">
+    <title lang="zh">青山不墨(34)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539831" start="20261022001900 +0800" stop="20261022004700 +0800">
+    <title lang="zh">真实纪录</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544310" start="20261022001900 +0800" stop="20261022010500 +0800">
+    <title lang="zh">我和我的三个姐姐(6)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539843" start="20261022002000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">热血剧场:我是刑警(33)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539728" start="20261022002200 +0800" stop="20261022002500 +0800">
+    <title lang="zh">宣传片</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545949" start="20261022002300 +0800" stop="20261022055630 +0800">
+    <title lang="zh">超级农人秀-丰收中国之沃野超有范儿-20</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545933" start="20261022002350 +0800" stop="20261022005330 +0800">
+    <title lang="zh">经济半小时</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539697" start="20261022002400 +0800" stop="20261022012400 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539864" start="20261022002400 +0800" stop="20261022005400 +0800">
+    <title lang="zh">凌晨剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545934" start="20261022002420 +0800" stop="20261022011020 +0800">
+    <title lang="zh">综艺喜乐汇-2026-1164 以法之名22/36</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539646" start="20261022002600 +0800" stop="20261022010900 +0800">
+    <title lang="zh">倭寇英雄戚继光(15)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539790" start="20261022002600 +0800" stop="20261022012900 +0800">
+    <title lang="zh">中国故事</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539777" start="20261022002800 +0800" stop="20261022044800 +0800">
+    <title lang="zh">我是刑警</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539635" start="20261022003000 +0800" stop="20261022011100 +0800">
+    <title lang="zh">重案六组-消失的警号</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539800" start="20261022003000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">第1观察</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544276" start="20261022003000 +0800" stop="20261022012000 +0800">
+    <title lang="zh">娱乐急先锋</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544386" start="20261022003000 +0800" stop="20261022053000 +0800">
+    <title lang="zh">通宵剧场六集连播</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539850" start="20261022003100 +0800" stop="20261022010100 +0800">
+    <title lang="zh">青春中国</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544408" start="20261022003100 +0800" stop="20261022041600 +0800">
+    <title lang="zh">凌晨剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545941" start="20261022003100 +0800" stop="20261022012700 +0800">
+    <title lang="zh">全景自然2026-294</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539898" start="20261022003200 +0800" stop="20261022003700 +0800">
+    <title lang="zh">江南文脉</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545946" start="20261022003200 +0800" stop="20261022060000 +0800">
+    <title lang="zh">走向大西南-10/23</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539808" start="20261022003300 +0800" stop="20261022044100 +0800">
+    <title lang="zh">精彩放映室</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545947" start="20261022003335 +0800" stop="20261022060000 +0800">
+    <title lang="zh">风华国乐-2026-304</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539851" start="20261022003500 +0800" stop="20261022011000 +0800">
+    <title lang="zh">纪录30分</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545942" start="20261022003530 +0800" stop="20261022010530 +0800">
+    <title lang="zh">味道-2026-178（精编）</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539650" start="20261022004000 +0800" stop="20261022012000 +0800">
+    <title lang="zh">红高粱</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539715" start="20261022004000 +0800" stop="20261022013000 +0800">
+    <title lang="zh">局中人(3)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545948" start="20261022004000 +0800" stop="20261022014000 +0800">
+    <title lang="zh">2026年国际马联世界锦标赛-1</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544300" start="20261022004100 +0800" stop="20261022043500 +0800">
+    <title lang="zh">凌晨剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539644" start="20261022004500 +0800" stop="20261022013200 +0800">
+    <title lang="zh">飞虎神鹰(41)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539692" start="20261022004700 +0800" stop="20261022015300 +0800">
+    <title lang="zh">深夜剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545944" start="20261022004700 +0800" stop="20261022011800 +0800">
+    <title lang="zh">一线-2026-210</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539755" start="20261022005000 +0800" stop="20261022012200 +0800">
+    <title lang="zh">快乐生活一点通</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539785" start="20261022005000 +0800" stop="20261022022000 +0800">
+    <title lang="zh">幸福剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539839" start="20261022005200 +0800" stop="20261022014600 +0800">
+    <title lang="zh">星光剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539641" start="20261022005400 +0800" stop="20261022015900 +0800">
+    <title lang="zh">我们的河山(29)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539835" start="20261022005400 +0800" stop="20261022012500 +0800">
+    <title lang="zh">奔跑吧幽默</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539824" start="20261022010000 +0800" stop="20261022013000 +0800">
+    <title lang="zh">印象中国(闽)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539730" start="20261022010400 +0800" stop="20261022013400 +0800">
+    <title lang="zh">征战达喀尔</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539752" start="20261022010500 +0800" stop="20261022053000 +0800">
+    <title lang="zh">译制剧</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545937" start="20261022010600 +0800" stop="20261022023600 +0800">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 4</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545932" start="20261022011300 +0800" stop="20261022015700 +0800">
+    <title lang="zh">生活早参考-特别节目（生活圈）2026-289</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539876" start="20261022011500 +0800" stop="20261022023500 +0800">
+    <title lang="zh">深夜剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539743" start="20261022012600 +0800" stop="20261022021600 +0800">
+    <title lang="zh">剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539700" start="20261022014200 +0800" stop="20261022014700 +0800">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539712" start="20261022014600 +0800" stop="20261022031200 +0800">
+    <title lang="zh">健康有道</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539817" start="20261022020000 +0800" stop="20261022022000 +0800">
+    <title lang="zh">新闻大直播</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539904" start="20261022050000 +0800" stop="20261022063000 +0800">
+    <title lang="zh">栏目</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544356" start="20261022050100 +0800" stop="20261022074300 +0800">
+    <title lang="zh">等着我</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539792" start="20261022051000 +0800" stop="20261022051100 +0800">
+    <title lang="zh">开始曲</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544374" start="20261022052500 +0800" stop="20261022072500 +0800">
+    <title lang="zh">早间剧场</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544295" start="20261022060000 +0800" stop="20261022060500 +0800">
+    <title lang="zh">航拍江西</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="539634" start="20261022060049 +0800" stop="20261022060125 +0800">
+    <title lang="zh">4K频道宣传片-标识演绎4</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544364" start="20261022062500 +0800" stop="20261022064500 +0800">
+    <title lang="zh">快乐健身美一天</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="545950" start="20261022070000 +0800" stop="20261022070035 +0800">
+    <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="570481" start="20261022070000 +0800" stop="20261022080000 +0800">
+    <title lang="zh">哈哈家庭秀</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="544381" start="20261022070100 +0800" stop="20261022075400 +0800">
+    <title lang="zh">无所畏惧(17)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="570471" start="20261022073000 +0800" stop="20261022090200 +0800">
+    <title lang="zh">超级戏乐汇</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="410355" start="20261022000000 +0800" stop="20261022005700 +0800">
+    <title lang="zh">鳳凰洲際快車</title>
+    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="410378" start="20261022000000 +0800" stop="20261022005700 +0800">
+    <title lang="zh">鳳凰洲際快車 </title>
+    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="410381" start="20261022000000 +0800" stop="20261022080000 +0800">
+    <title lang="zh">此頻道未能提供節目表敬請原諒!</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="410407" start="20261022000000 +0800" stop="20261022020000 +0800">
+    <title lang="zh">NBA精彩重溫</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="410376" start="20261022003000 +0800" stop="20261022013000 +0800">
+    <title lang="zh">灣區文化坊</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="370251" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">人間新聞(1151021)(重)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="456536" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">歐耶一級棒第1季</title>
+    <desc>全能綜藝王歐漢聲(歐弟)、笑點掌門人張立東、啦啦隊女神林襄。全新組合火花無限~發掘最厲害、最有趣、最令人驚豔的人事物~高手集結 顛覆想像 、最硬核的技藝、最接地氣的故事、最爆哏的笑料~都在《歐耶一級棒》。</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="456539" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">與晉長安</title>
+    <desc>該劇講述太晉女將軍「黎霜」偶然間撿到記憶全失的男子，賜名「晉安」。「晉安」全心全意地陪伴「黎霜」，二人暗生情愫。不料「晉安」逐漸想起自己的身世竟是敵國王爺，曾經相約白首的二人不得已刀兵相見。而本就厭倦戰爭的他們決定聯手化解危機，守住心中的正義。</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="456555" start="20261022000000 +0800" stop="20261022005500 +0800">
+    <title lang="zh">新聞夜現場</title>
+    <desc>新聞夜現場</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="456557" start="20261022000000 +0800" stop="20261022010000 +0800">
+    <title lang="zh">國民大會</title>
+    <desc>富人怎麼品味生活，窮人怎麼窮得開心，站在天秤的中端，"國民大會"將即時為你掌握社會趨勢，替民生把脈</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="456575" start="20261022000000 +0800" stop="20261022003000 +0800">
+    <title lang="zh">2026凱基證券緯來運動STUDIO</title>
+    <desc>為您呈現最多元、豐富、精采的內容，讓您掌握世界體壇的第一手消息。歡迎老朋友、新朋友一同加入體育世界！</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="370172" start="20261022010000 +0800" stop="20261022013000 +0800">
+    <title lang="zh">民視英語新聞【普】</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme channel="456556" start="20261022010000 +0800" stop="20261022020000 +0800">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
