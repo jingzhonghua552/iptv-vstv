@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""拉取 taksssss/tv 的 epg.pw 国内/港台三变体，合并并按 iptv.m3u 的 tvg-id 过滤，
-输出 epg.xml 与 epg.xml.gz。
+"""生成精简 EPG：只保留 iptv.m3u 里实际用到的频道，体积从 ~49MB 降到 ~240KB。
 
-数据源（每 2 小时自动同步，Gitee 国内直连快）：
-  https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz
-  https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz
-  https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz
+数据源（Gitee 镜像，国内直连快，每 2 小时自动同步）：
+  taks 号段  epgpw_cn / epgpw_hk / epgpw_tw.xml.gz   —— 覆盖大陆+港台主力频道
+  erw  号段  erw.xml.gz                              —— 覆盖央视付费频道/地方台
 
-输出仅保留 iptv.m3u 中实际使用的 tvg-id，体积从 ~49MB 降到几十 KB。
+两套号段合并输出，因为 m3u 里的 tvg-id 有的用 taks 号（如 545936），
+有的只能用 erw 号（如 cctv风云音乐 -> 142）。
+
+用法：
+  python _merge_epg.py            # 正常生成
+  python _merge_epg.py --check    # 只体检覆盖率，不写文件
 """
 import gzip
-import io
 import os
 import re
 import sys
@@ -22,103 +24,142 @@ M3U = os.path.join(ROOT, "iptv.m3u")
 OUT_XML = os.path.join(ROOT, "epg.xml")
 OUT_GZ = os.path.join(ROOT, "epg.xml.gz")
 
-SOURCES = [
-    "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
-    "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz",
-    "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
-]
+BASE = "https://gitee.com/taksssss/tv/raw/main/epg/"
+TAKS_SOURCES = ["epgpw_cn.xml.gz", "epgpw_hk.xml.gz", "epgpw_tw.xml.gz"]
+ERW_SOURCES = ["erw.xml.gz"]
 
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+CH_RE = re.compile(r"<channel\b([^>]*)>(.*?)</channel>", re.S)
+PR_RE = re.compile(r"<programme\b([^>]*)>(.*?)</programme>", re.S)
 
 
-def fetch(url, timeout=180):
+def fetch(name, timeout=180):
+    url = BASE + name
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+        return gzip.decompress(r.read()).decode("utf-8", errors="replace")
 
 
-def wanted_ids():
-    with open(M3U, encoding="utf-8", errors="replace") as f:
-        txt = f.read()
-    ids, out = re.findall(r'tvg-id="([^"]*)"', txt), []
-    for i in ids:
-        if i not in out:
-            out.append(i)
-    return set(out)
-
-
-CH_RE = re.compile(r"<channel\b[^>]*>.*?</channel>|<channel\b[^>]*/>", re.S)
-PR_RE = re.compile(r"<programme\b[^>]*>.*?</programme>|<programme\b[^>]*/>", re.S)
-
-
-def extract(text, want):
-    chans, progs, seen_ch, seen_pr = [], [], set(), set()
+def parse(text):
+    """返回 (channels: {id: 内部XML}, programmes: {id: [(attrs, body)]})"""
+    chans, progs = {}, {}
     for m in CH_RE.finditer(text):
-        blk = m.group(0)
-        cm = re.search(r'<channel id="([^"]+)"', blk)
+        attrs, body = m.groups()
+        cm = re.search(r'id="([^"]+)"', attrs)
+        if cm:
+            chans.setdefault(cm.group(1), body)
+    for m in PR_RE.finditer(text):
+        attrs, body = m.groups()
+        cm = re.search(r'channel="([^"]+)"', attrs)
         if not cm:
             continue
-        cid = cm.group(1)
-        if cid in want and cid not in seen_ch:
-            seen_ch.add(cid)
-            chans.append(blk)
-    for m in PR_RE.finditer(text):
-        blk = m.group(0)
-        pm = re.search(r'channel="([^"]+)"', blk)
-        if not pm:
+        sm = re.search(r'start="([^"]+)"', attrs)
+        if not sm:
             continue
-        cid = pm.group(1)
-        if cid in want and cid not in seen_pr:
-            seen_pr.add(cid)
-            progs.append(blk)
+        progs.setdefault(cm.group(1), []).append((attrs, body))
     return chans, progs
 
 
 def main():
-    want = wanted_ids()
-    print(f"目标 tvg-id: {len(want)} 个")
+    check_only = "--check" in sys.argv
 
-    all_ch, all_pr = [], []
-    seen_ch, seen_pr = set(), set()
-    for url in SOURCES:
-        try:
-            raw = fetch(url)
-        except Exception as e:
-            print(f"  跳过 {url.rsplit('/', 1)[-1]}: {e}")
-            continue
-        try:
-            text = gzip.decompress(raw).decode("utf-8", errors="replace")
-        except Exception as e:
-            print(f"  解压失败 {url.rsplit('/', 1)[-1]}: {e}")
-            continue
-        ch, pr = extract(text, want)
-        new_ch = [c for c in ch if re.search(r'<channel id="([^"]+)"', c).group(1) not in seen_ch]
-        new_pr = [p for p in pr if re.search(r'channel="([^"]+)"', p).group(1) not in seen_pr]
-        for c in new_ch:
-            seen_ch.add(re.search(r'<channel id="([^"]+)"', c).group(1))
-        for p in new_pr:
-            seen_pr.add(re.search(r'channel="([^"]+)"', p).group(1))
-        all_ch += new_ch
-        all_pr += new_pr
-        print(f"  {url.rsplit('/', 1)[-1]}: channel +{len(new_ch)}, programme +{len(new_pr)}")
+    with open(M3U, encoding="utf-8", errors="replace") as f:
+        m3u = f.read()
+    used = set(re.findall(r'tvg-id="([^"]+)"', m3u))
+    numeric = {i for i in used if i.isdigit()}
+    print(f"m3u 中 tvg-id: 共 {len(used)} 个，其中数字型 {len(numeric)} 个")
 
-    if not all_ch:
-        print("所有源均失败，保留原文件不改动")
+    taks_ch, taks_pr = {}, {}
+    for name in TAKS_SOURCES:
+        try:
+            c, p = parse(fetch(name))
+        except Exception as e:
+            print(f"  跳过 {name}: {e}")
+            continue
+        for k, v in c.items():
+            taks_ch.setdefault(k, v)
+        for k, v in p.items():
+            taks_pr.setdefault(k, []).extend(v)
+        print(f"  {name}: channel {len(c)}, programme {sum(len(v) for v in p.values())}")
+
+    erw_ch, erw_pr = {}, {}
+    for name in ERW_SOURCES:
+        try:
+            c, p = parse(fetch(name))
+        except Exception as e:
+            print(f"  跳过 {name}: {e}")
+            continue
+        for k, v in c.items():
+            erw_ch.setdefault(k, v)
+        for k, v in p.items():
+            erw_pr.setdefault(k, []).extend(v)
+        print(f"  {name}: channel {len(c)}, programme {sum(len(v) for v in p.values())}")
+
+    want_taks = set(numeric)
+    want_erw = set()
+
+    # 数字型 id 若 taks 里没有、但 erw 里有同名号段，也纳入（极少见）
+    for cid in list(want_taks):
+        if cid not in taks_ch and cid in erw_ch:
+            want_erw.add(cid)
+
+    if not taks_ch and not erw_ch:
+        print("所有数据源均失败，保留现有 epg.xml 不改动")
         return 1
+
+    ch_out, pr_out = [], []
+    seen_c, seen_p = set(), set()
+
+    def sort_key(x):
+        return (0, int(x)) if x.isdigit() else (1, x)
+
+    for cid in sorted(want_taks, key=sort_key):
+        if cid in taks_ch and cid not in seen_c:
+            seen_c.add(cid)
+            ch_out.append(f'<channel id="{cid}">{taks_ch[cid]}</channel>')
+    for cid in sorted(want_erw, key=sort_key):
+        if cid in erw_ch and cid not in seen_c:
+            seen_c.add(cid)
+            ch_out.append(f'<channel id="{cid}">{erw_ch[cid]}</channel>')
+
+    for cid in sorted(want_taks, key=sort_key):
+        for attrs, body in taks_pr.get(cid, []):
+            key = (cid, attrs)
+            if key in seen_p:
+                continue
+            seen_p.add(key)
+            pr_out.append(f"<programme {attrs}>{body}</programme>")
+    for cid in sorted(want_erw, key=sort_key):
+        for attrs, body in erw_pr.get(cid, []):
+            key = (cid, attrs)
+            if key in seen_p:
+                continue
+            seen_p.add(key)
+            pr_out.append(f"<programme {attrs}>{body}</programme>")
+
+    has_pr = {c for c, _ in seen_p}
+    miss = sorted([c for c in numeric if c not in has_pr], key=sort_key)
+    print()
+    print(f"输出 channel {len(ch_out)} / programme {len(pr_out)}")
+    print(f"数字型 tvg-id 有节目数据的: {len(numeric) - len(miss)} / {len(numeric)}")
+    if miss:
+        print(f"  无节目数据: {miss[:20]}")
+
+    if check_only:
+        return 0
 
     xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
            '<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
-           '<tv generator-info-name="merged-cn-hk-tw">\n'
-           + "\n".join(all_ch) + "\n"
-           + "\n".join(all_pr) + "\n"
+           '<tv generator-info-name="merged-taks-erw">\n'
+           + "\n".join(ch_out) + "\n"
+           + "\n".join(pr_out) + "\n"
            + "</tv>\n")
-
     with open(OUT_XML, "w", encoding="utf-8") as f:
         f.write(xml)
     with gzip.open(OUT_GZ, "wb", compresslevel=9) as f:
         f.write(xml.encode("utf-8"))
-
-    print(f"输出: {len(all_ch)} channel / {len(all_pr)} programme")
     print(f"  {OUT_XML}  {os.path.getsize(OUT_XML)} bytes")
     print(f"  {OUT_GZ}  {os.path.getsize(OUT_GZ)} bytes")
     return 0
