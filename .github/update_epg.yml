@@ -1,0 +1,42 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-epg
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and merge EPG
+        run: |
+          set -e
+          python3 _merge_epg.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml epg.xml.gz
+          if git diff --staged --quiet; then
+            echo "EPG 无变化，跳过提交"
+          else
+            git commit -m "chore: 自动更新精简 EPG ($(date -u +%Y%m%d%H%M))"
+            git push
+          fi
