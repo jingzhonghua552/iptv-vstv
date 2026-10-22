@@ -142,10 +142,8 @@ http://173.208.212.130:8181/720p/fyzq.m3u8
 #EXTINF:-1 tvg-id="561408" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png",CCTV 风云足球
 http://183.11.239.36:808/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="561383" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png",CCTV 高尔夫·网球
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="561383" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png",CCTV 高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="561390" group-title="央视",CCTV 台球
+#EXTINF:-1 tvg-id="561390" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="央视",CCTV 台球
 http://173.208.212.130:8181/720p/ystq.m3u8
 #EXTINF:-1 tvg-id="561381" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png",CCTV 兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -391,18 +389,6 @@ http://genglei.8866.org:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authi
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btws
 #EXTINF:-1 tvg-id="554" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安多卫视.png",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
-http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
-https://stream1.freetv.fun/3560edca61a3e10ce94bf15bb670a1e422c82696550d5c16de4c7ebab0de304f.ctv
-#EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
-https://mursor.ottiptv.cc/gptv/G_NONGLIN.m3u8
-#EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
-http://119.91.7.169:2026/difangtai/%E9%99%95%E8%A5%BF.php?id=nlws
-#EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
-http://223.111.150.99:2005/ysws.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="539830" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png",海峡卫视
-http://183.250.156.180:9999/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 tvg-id="539830" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png",海峡卫视
 http://113.98.11.46:3000/849119120
 #EXTINF:-1 tvg-id="539650" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png",山东教育卫视
@@ -411,7 +397,7 @@ https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="368366" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB翡翠.png",TVB 翡翠台
 http://183.239.108.37:1698/hls/92/index.m3u8
-#EXTINF:-1 tvg-id="190" group-title="港澳台",TVB Pearl 明珠台
+#EXTINF:-1 tvg-id="190" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="港澳台",TVB Pearl 明珠台
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="240" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/香港卫视.png",香港卫视
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
@@ -438,8 +424,6 @@ https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6f
 #EXTINF:-1 tvg-id="457311" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立戏剧.png",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="456539" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娱乐.png",中天娱乐台
-http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 tvg-id="456539" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娱乐.png",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="456575" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png",纬来体育台
 https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
@@ -453,8 +437,6 @@ https://live.i-news.tv/hls/stream.m3u8
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 tvg-id="cts-news" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png",中天新闻台
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="456536" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天综合.png",中天综合台
-http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="370251" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/人间卫视.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-id="370251" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/人间卫视.png",人间卫视
@@ -465,13 +447,13 @@ http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="456557" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS.png",TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="457316" group-title="港澳台",爱尔达影剧台
+#EXTINF:-1 tvg-id="457316" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达影剧.png" group-title="港澳台",爱尔达影剧台
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="410289" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KBSWORLD.png",KBS World
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="410297" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DMAX.png",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="410383" group-title="国外中文",ABC
+#EXTINF:-1 tvg-id="410383" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCAUSTRALIA.png" group-title="国外中文",ABC
 https://epg.pw/stream/50671bccafc68e5a9057a1d46556cad2e69e0e04c206073648a4c1d0a1bd82d3.m3u8
 #EXTINF:-1 tvg-id="410407" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -519,12 +501,6 @@ http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 #EXTINF:-1 tvg-id="539808" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江文体.png",黑龙江文体频道
 http://112.99.195.122:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="544398" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林都市.png",吉林都市频道
-http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-id="544356" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林影视.png",吉林影视频道
-http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="544374" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林生活.png",吉林生活频道
-http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-id="544300" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林乡村.png",吉林乡村频道
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="539852" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江都市.png",黑龙江都市频道
@@ -547,7 +523,7 @@ https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c99683
 https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d9
 #EXTINF:-1 tvg-id="216" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏教育.png",江苏教育频道
 https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c5
-#EXTINF:-1 tvg-id="安徽导视频道" group-title="地方台",安徽导视频道
+#EXTINF:-1 tvg-id="安徽导视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="地方台",安徽导视频道
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 #EXTINF:-1 tvg-id="539904" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江钱江都市.png",浙江钱江都市频道
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -603,7 +579,7 @@ http://183.11.239.36:808/hls/18/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="319" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生频道
 http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="567" group-title="地方台",海南南国都市频道
+#EXTINF:-1 tvg-id="567" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方台",海南南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="321" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南都市.png",河南都市频道
 http://39.165.39.49:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -619,14 +595,10 @@ http://110.53.235.13:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=
 http://218.77.84.102:85/tsfile/live/147/2003_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="544276" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐频道
 http://218.77.84.102:85/tsfile/live/151/2007_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="259" group-title="地方台",陕西秦腔频道
-http://112.46.105.20:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="湖南教育频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南教育.png",湖南教育频道
 http://110.53.235.13:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖南教育频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南教育.png",湖南教育频道
 http://218.77.84.102:85/tsfile/live/156/2011_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="260" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西体育休闲.png",陕西体育休闲频道
-http://112.46.105.20:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="155" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江频道
 http://gmxw.7766.org:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="155" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江频道
@@ -643,11 +615,7 @@ http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f49069
 http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="539779" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆新闻.png",重庆新闻频道
 http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="257" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西都市青春.png",陕西都市青春频道
-http://112.46.105.20:8009/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="544638" group-title="地方台",广州综合
+#EXTINF:-1 tvg-id="544638" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
-#EXTINF:-1 tvg-id="544638" group-title="地方台",广州综合
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 tvg-id="544638" group-title="地方台",广州综合
+#EXTINF:-1 tvg-id="544638" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
