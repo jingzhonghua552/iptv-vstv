@@ -24,11 +24,13 @@ http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 tvg-id="6450" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文国际
 http://120.211.62.180:8000/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="545936" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
+http://173.208.212.130:8181/720p/cctv5.m3u8
 http://gmxw.7766.org:808/hls/93/index.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="545937" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5+ 体育赛事
-https://gcore.jsdelivr.net/gh/petem379-cmd/ysp@main/cctv5p.m3u8
-https://petem379-cmd.github.io/ysp/cctv5p.m3u8
+http://173.208.212.130:8181/720p/cctv5p.m3u8
+http://173.208.234.146/live/cctv5p.m3u8
+http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=202610221202552e21fefe82ee493186471f0911bf831d&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261022120255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261022120255&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=789f4512911ad9109b521cf5670301c9
 #EXTINF:-1 tvg-id="545938" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png",CCTV-6 电影
 http://173.208.212.130:8181/720p/cctv6.m3u8
@@ -111,20 +113,15 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="cgtn英语新闻" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png",CGTN 英语新闻
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cgtn西班牙语" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png",CGTN 西班牙语
-https://gcore.jsdelivr.net/gh/petem379-cmd/ysp@main/cgtnes.m3u8
-https://petem379-cmd.github.io/ysp/cgtnes.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=1d41e34af30c47465dfb281cbe17b950&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20261022085039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=39.103.188.159&SecurityKey=20261022085039&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=77430e4774ff0629e27dfd375eace8d8&ddCalcu=87d7v84ae3yc0aaee4577734dfffd07622e9&sv=10004&ct=android
 #EXTINF:-1 tvg-id="570493" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png",CGTN 法语
-https://gcore.jsdelivr.net/gh/petem379-cmd/ysp@main/cgtnfr.m3u8
-https://petem379-cmd.github.io/ysp/cgtnfr.m3u8
 https://0472.org/hls/cgtnf.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=20261014180259616ebd68332e4c56826d0a1347ce8e81&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20261014180259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20261014180259&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=84a7e29575af2de84e7f33fcc3afeb8f
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-id="cgtn阿拉伯语" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png",CGTN 阿拉伯语
-https://gcore.jsdelivr.net/gh/petem379-cmd/ysp@main/cgtnar.m3u8
-https://petem379-cmd.github.io/ysp/cgtnar.m3u8
 https://newlivestream.cgtn.com/1004/index.m3u8
 http://livear.cgtn.com/1000a/prog_index.m3u8
 http://gslbmgsplive.miguvideo.com/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=ed81bf8037c3a46a6eb12d059076073f&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20261022085035&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=39.103.182.111&SecurityKey=20261022085035&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=eeff6a4b8b53415bda364ba36f4706a5&ddCalcu=5eaev6fa0fb76a4af46b38abb5436431a5db&sv=10004&ct=android
