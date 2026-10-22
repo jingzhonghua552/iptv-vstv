@@ -37,6 +37,10 @@
     <display-name lang="HK">三沙衛視</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129160046472283_41" />
   </channel>
+<channel id="410383">
+    <display-name lang="HK">ABC Australia</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129162527282722_54" />
+  </channel>
 <channel id="410407">
     <display-name lang="HK">NBA TV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129193737395817_37" />
@@ -64,6 +68,10 @@
 <channel id="456575">
     <display-name lang="TW">緯來體育台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png" />
+  </channel>
+<channel id="457311">
+    <display-name lang="TW">三立戲劇台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171628507319_68.png" />
   </channel>
 <channel id="457316">
     <display-name lang="TW">愛爾達影劇台HD</display-name>
@@ -15666,6 +15674,1614 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+<programme  channel="410383" start="20261022002500 +0800" stop="20261022011500 +0800">
+    <title lang="zh">Four Corners:2026 第34集</title>
+    <desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022011500 +0800" stop="20261022013000 +0800">
+    <title lang="zh">Media Watch:2026 第37集</title>
+    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022013000 +0800" stop="20261022020000 +0800">
+    <title lang="zh">Compass 第40季第10集 -Labassa </title>
+    <desc>Compass was given rare access to Labassa, a historic mansion in Melbourne, and some of those who called it home. From post war Jewish refugees to 1970s bohemians. Narrated by Essie Davis.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022020000 +0800" stop="20261022030000 +0800">
+    <title lang="zh">The World:2026 第167集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022030000 +0800" stop="20261022040000 +0800">
+    <title lang="zh">News Breakfast:2026 第211集</title>
+    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022040000 +0800" stop="20261022060000 +0800">
+    <title lang="zh">News Breakfast:2026 第211集</title>
+    <desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022060000 +0800" stop="20261022090000 +0800">
+    <title lang="zh">ABC News Mornings:2026 第211集</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022090000 +0800" stop="20261022102500 +0800">
+    <title lang="zh">ABC News At Noon:2026 第211集</title>
+    <desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022102500 +0800" stop="20261022114500 +0800">
+    <title lang="zh">Great Australian Walks 第1季第8集</title>
+    <desc>It's a mecca for surfies, hippies and influencers, and Julia Zemiro is in Byron Bay to discover why this sun-kissed spot is such a magnet.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022114500 +0800" stop="20261022121500 +0800">
+    <title lang="zh">Planet America:2026 第32集</title>
+    <desc>It's the final countdown with just over two weeks to go until the Midterm Elections. Chas and John look at the latest polls, issues and races that will decide who controls Congress, the House and Senate for the next 2 years.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022121500 +0800" stop="20261022125000 +0800">
+    <title lang="zh">Media Watch:2026 第37集</title>
+    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022125000 +0800" stop="20261022140000 +0800">
+    <title lang="zh">National Press Club Address:2026 第39集 -David Pocock </title>
+    <desc>ACT Independent Senator David Pocock addresses the National Press Club on the topic 'What we could build with our natural wealth if we thought and planned for the long term'.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022140000 +0800" stop="20261022150000 +0800">
+    <title lang="zh">ABC News With Joe O'brien:2026 第211集</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022150000 +0800" stop="20261022153000 +0800">
+    <title lang="zh">The Cook Up With Adam Liaw 第5季第70集 </title>
+    <desc>It's Easy Entertaining, and Adam has lined up two stars, Opera Australia Principal Singers Esther Song and Christian Qi, to make food that's bound to be the star of the show.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022153000 +0800" stop="20261022160000 +0800">
+    <title lang="zh">The Pacific:2026 第18集 </title>
+    <desc>As New Zealand heads toward the 2026 election, Maori and Pacific communities are facing a raft of growing pressures. In this special we examine how recent policy decisions and funding changes are impacting these communities.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022160000 +0800" stop="20261022163000 +0800">
+    <title lang="zh">ABC National News:2026 第295集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022163000 +0800" stop="20261022170000 +0800">
+    <title lang="zh">7.30:2026 第168集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022170000 +0800" stop="20261022180000 +0800">
+    <title lang="zh">Great Australian Walks 第1季第7集</title>
+    <desc>Julia Zemiro crosses Bass Strait to walk Hobart's cobbled streets before embarking up Kunanyi/Mount Wellington to reveal a breathtaking and blustery view.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022180000 +0800" stop="20261022185500 +0800">
+    <title lang="zh">The World:2026 第168集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022185500 +0800" stop="20261022204000 +0800">
+    <title lang="zh">Girls Can't Surf</title>
+    <desc>The untold story of how a band of renegade surfer girls in the 1980s fought to create their own professional sport, changing surf culture forever.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022204000 +0800" stop="20261022211500 +0800">
+    <title lang="zh">Our Medicine 第1季第3集</title>
+    <desc>A behind-the-scenes look at Australia's medical services, shining a light on First Nations professionals working to achieve better health outcomes for Aboriginal and Torres Strait Islander patients and communities.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022211500 +0800" stop="20261022213000 +0800">
+    <title lang="zh">ABC Late News:2026 第211集</title>
+    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022213000 +0800" stop="20261022214500 +0800">
+    <title lang="zh">The Business:2026 第152集</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022214500 +0800" stop="20261022221500 +0800">
+    <title lang="zh">7.30:2026 第168集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022221500 +0800" stop="20261022231000 +0800">
+    <title lang="zh">The World:2026 第168集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261022231000 +0800" stop="20261023000000 +0800">
+    <title lang="zh">Great Australian Walks 第1季第8集</title>
+    <desc>It's a mecca for surfies, hippies and influencers, and Julia Zemiro is in Byron Bay to discover why this sun-kissed spot is such a magnet.</desc>
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023000000 +0800" stop="20261023001500 +0800">
+    <title lang="zh">Media Watch:2026 第37集</title>
+    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023001500 +0800" stop="20261023013000 +0800">
+    <title lang="zh">National Press Club Address:2026 第39集 -David Pocock </title>
+    <desc>ACT Independent Senator David Pocock addresses the National Press Club on the topic 'What we could build with our natural wealth if we thought and planned for the long term'.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023013000 +0800" stop="20261023020000 +0800">
+    <title lang="zh">The Pacific:2026 第18集 </title>
+    <desc>As New Zealand heads toward the 2026 election, Maori and Pacific communities are facing a raft of growing pressures. In this special we examine how recent policy decisions and funding changes are impacting these communities.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023020000 +0800" stop="20261023030000 +0800">
+    <title lang="zh">The World:2026 第168集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023030000 +0800" stop="20261023040000 +0800">
+    <title lang="zh">News Breakfast:2026 第212集</title>
+    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023040000 +0800" stop="20261023060000 +0800">
+    <title lang="zh">News Breakfast:2026 第212集</title>
+    <desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023060000 +0800" stop="20261023090000 +0800">
+    <title lang="zh">ABC News Mornings:2026 第212集</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023090000 +0800" stop="20261023095500 +0800">
+    <title lang="zh">ABC News At Noon:2026 第212集</title>
+    <desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023095500 +0800" stop="20261023104500 +0800">
+    <title lang="zh">Gardening Australia:2026 第10集</title>
+    <desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023104500 +0800" stop="20261023111000 +0800">
+    <title lang="zh">The Streets With Dan Hong 第1季第5集</title>
+    <desc>Dan Hong sets out to unearth iconic national street food dishes, tracing them back to their roots and then preparing them himself.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023111000 +0800" stop="20261023113000 +0800">
+    <title lang="zh">The Chef's Garden 第1季第5集</title>
+    <desc>Chef Massimo Mele heads out to sea in search of the highly prized South Rock Lobster. Bringing this culinary journey to a delightful close, Massimo ends on a sweet note with two family favourites: panna cotta and zeppole.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023113000 +0800" stop="20261023120000 +0800">
+    <title lang="zh">Dream Gardens 第1季第8集 </title>
+    <desc>Paul and Zoe want a garden to match their fabulous art deco home in Melbourne. But project managing the ambitious build themselves will take courage. Loved ones think they're crazy, can they prove the doubters wrong? (Final)</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023120000 +0800" stop="20261023123000 +0800">
+    <title lang="zh">The Pacific:2026 第18集 </title>
+    <desc>As New Zealand heads toward the 2026 election, Maori and Pacific communities are facing a raft of growing pressures. In this special we examine how recent policy decisions and funding changes are impacting these communities.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023123000 +0800" stop="20261023130000 +0800">
+    <title lang="zh">That Pacific Sports Show:2026 第37集</title>
+    <desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023130000 +0800" stop="20261023140000 +0800">
+    <title lang="zh">The Jury 第1季第2集</title>
+    <desc>The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023140000 +0800" stop="20261023150000 +0800">
+    <title lang="zh">ABC News With Joe O'brien:2026 第212集</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023150000 +0800" stop="20261023160000 +0800">
+    <title lang="zh">Gardening Australia:2026 第10集</title>
+    <desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023160000 +0800" stop="20261023163000 +0800">
+    <title lang="zh">ABC National News:2026 第296集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023163000 +0800" stop="20261023172000 +0800">
+    <title lang="zh">Great Australian Road Trips 第1季第4集</title>
+    <desc>Four high-profile Australian stars embark on an epic road trip across the country's most iconic landscapes, one unforgettable pit-stop at a time. With Melissa Leong, Nazeem Hussain, Claudia Karvan and Steph Tisdell.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023172000 +0800" stop="20261023180000 +0800">
+    <title lang="zh">On Country Kitchen 第2季第4集</title>
+    <desc>It's season 2 and Derek still can't cook! With locally found ingredients, and a sprinkle of culture and character, Mark and Derek create an Indigenous-inspired feast for the people they visit along their journey.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023180000 +0800" stop="20261023183000 +0800">
+    <title lang="zh">The World:2026 第42集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023183000 +0800" stop="20261023193000 +0800">
+    <title lang="zh">Alone Australia 第3季第3集</title>
+    <desc>A triumphant catch starves of the hunger of one survivalist, but as the adrenaline of the adventure fades, can the others pivot their strategies to bring in food?</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023193000 +0800" stop="20261023203000 +0800">
+    <title lang="zh">The Jury 第1季第2集</title>
+    <desc>The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023203000 +0800" stop="20261023211500 +0800">
+    <title lang="zh">Great Australian Road Trips 第1季第4集</title>
+    <desc>Four high-profile Australian stars embark on an epic road trip across the country's most iconic landscapes, one unforgettable pit-stop at a time. With Melissa Leong, Nazeem Hussain, Claudia Karvan and Steph Tisdell.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023211500 +0800" stop="20261023214500 +0800">
+    <title lang="zh">ABC News Overnight:2026 第212集</title>
+    <desc>Know the latest on the day's top stories, as ABC News brings you a comprehensive roundup of the news of the day. We have reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023214500 +0800" stop="20261023221500 +0800">
+    <title lang="zh">Asia News Week:2026 第40集</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023221500 +0800" stop="20261023224500 +0800">
+    <title lang="zh">The World:2026 第42集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023224500 +0800" stop="20261023233000 +0800">
+    <title lang="zh">Gardening Australia:2026 第10集</title>
+    <desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261023233000 +0800" stop="20261024003000 +0800">
+    <title lang="zh">Alone Australia 第3季第3集</title>
+    <desc>A triumphant catch starves of the hunger of one survivalist, but as the adrenaline of the adventure fades, can the others pivot their strategies to bring in food?</desc>
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024003000 +0800" stop="20261024013000 +0800">
+    <title lang="zh">The Jury 第1季第2集</title>
+    <desc>The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024013000 +0800" stop="20261024020000 +0800">
+    <title lang="zh">Asia News Week:2026 第40集</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024020000 +0800" stop="20261024023000 +0800">
+    <title lang="zh">The World:2026 第42集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024023000 +0800" stop="20261024030000 +0800">
+    <title lang="zh">Australian Story:2026 第33集</title>
+    <desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024030000 +0800" stop="20261024033000 +0800">
+    <title lang="zh">The World This Week:2026 第40集</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024033000 +0800" stop="20261024040000 +0800">
+    <title lang="zh">Foreign Correspondent</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024040000 +0800" stop="20261024050000 +0800">
+    <title lang="zh">Weekend Breakfast:2026 第85集</title>
+    <desc>All the news you need to start your weekend. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Jared Coote.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024050000 +0800" stop="20261024060000 +0800">
+    <title lang="zh">Weekend Breakfast:2026 第85集</title>
+    <desc>All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024060000 +0800" stop="20261024080000 +0800">
+    <title lang="zh">Weekend Breakfast:2026 第85集</title>
+    <desc>All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024080000 +0800" stop="20261024090000 +0800">
+    <title lang="zh">The Jury 第1季第2集</title>
+    <desc>The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024090000 +0800" stop="20261024093000 +0800">
+    <title lang="zh">ABC News At Noon:2026 第85集</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024093000 +0800" stop="20261024100000 +0800">
+    <title lang="zh">Asia News Week:2026 第40集</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024100000 +0800" stop="20261024120000 +0800">
+    <title lang="zh">Aflw Round 11</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024120000 +0800" stop="20261024140000 +0800">
+    <title lang="zh">Aflw Round 11</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024140000 +0800" stop="20261024160000 +0800">
+    <title lang="zh">Girls Can't Surf</title>
+    <desc>The untold story of how a band of renegade surfer girls in the 1980s fought to create their own professional sport, changing surf culture forever.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024160000 +0800" stop="20261024163000 +0800">
+    <title lang="zh">ABC National News:2026 第297集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024163000 +0800" stop="20261024172000 +0800">
+    <title lang="zh">Wildlife Er 第1季第4集</title>
+    <desc>Wildlife ER follows a range of dedicated professionals and volunteers as they look after unwell animals and carefully nurse them back to health at the RSPCA Wildlife Hospital in Brisbane, Australia.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024172000 +0800" stop="20261024175500 +0800">
+    <title lang="zh">Dr Ann's Secret Lives 第1季第2集 </title>
+    <desc>Dr Ann Jones joins a team of intrepid scientists on a daring expedition off the Pilbara coast to study one of Australia's most mysterious and lethal predators: sea snakes.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024175500 +0800" stop="20261024182500 +0800">
+    <title lang="zh">New Leash On Life 第1季第2集 </title>
+    <desc>Terrified Memphis faces being euthanised unless the right foster carer can be found. No one can get close to this seemingly aggressive hound except Derek. Can Laura and Joel win Memphis' trust and find Memphis a new home?</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024182500 +0800" stop="20261024201000 +0800">
+    <title lang="zh">Midnight Oil</title>
+    <desc>Thirty years in the making and featuring never before seen footage on and off the stage, MIDNIGHT OIL 1984 is the untold story of the year Australia's iconic rock band inspired the nation to believe in the power of music.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024201000 +0800" stop="20261024210000 +0800">
+    <title lang="zh">Four Corners:2026 第34集</title>
+    <desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024210000 +0800" stop="20261024211500 +0800">
+    <title lang="zh">ABC News Overnight:2026 第85集</title>
+    <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024211500 +0800" stop="20261024214500 +0800">
+    <title lang="zh">The World This Week:2026 第40集</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024214500 +0800" stop="20261024223500 +0800">
+    <title lang="zh">Wildlife Er 第1季第4集</title>
+    <desc>Wildlife ER follows a range of dedicated professionals and volunteers as they look after unwell animals and carefully nurse them back to health at the RSPCA Wildlife Hospital in Brisbane, Australia.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024223500 +0800" stop="20261024230500 +0800">
+    <title lang="zh">Asia News Week:2026 第40集</title>
+    <desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024230500 +0800" stop="20261024233500 +0800">
+    <title lang="zh">Stuff The British Stole 第1季第3集 </title>
+    <desc>Marc Fennell is on a scavenger hunt for pieces of a mysterious, ancient Palestinian Mosaic, when put together, reveals how the British Empire shaped the modern Middle East.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261024233500 +0800" stop="20261025013000 +0800">
+    <title lang="zh">Girls Can't Surf</title>
+    <desc>The untold story of how a band of renegade surfer girls in the 1980s fought to create their own professional sport, changing surf culture forever.</desc>
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025013000 +0800" stop="20261025020000 +0800">
+    <title lang="zh">The World This Week:2026 第40集</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025020000 +0800" stop="20261025023000 +0800">
+    <title lang="zh">The Pacific:2026 第18集 </title>
+    <desc>As New Zealand heads toward the 2026 election, Maori and Pacific communities are facing a raft of growing pressures. In this special we examine how recent policy decisions and funding changes are impacting these communities.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025023000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">That Pacific Sports Show:2026 第37集</title>
+    <desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025030000 +0800" stop="20261025040000 +0800">
+    <title lang="zh">Alone Australia 第3季第3集</title>
+    <desc>A triumphant catch starves of the hunger of one survivalist, but as the adrenaline of the adventure fades, can the others pivot their strategies to bring in food?</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025040000 +0800" stop="20261025050000 +0800">
+    <title lang="zh">Weekend Breakfast:2026 第86集</title>
+    <desc>All the news you need to start your Sunday. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Jared Coote.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025050000 +0800" stop="20261025060000 +0800">
+    <title lang="zh">Weekend Breakfast:2026 第86集</title>
+    <desc>All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025060000 +0800" stop="20261025070000 +0800">
+    <title lang="zh">Insiders:2026 第39集</title>
+    <desc>David Speers and a panel of leading political reporters and commentators discuss the week in federal politics and look ahead to the issues and events on the agenda for the sitting week ahead in parliament.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025070000 +0800" stop="20261025073000 +0800">
+    <title lang="zh">Offsiders:2026 第38集</title>
+    <desc>Abbey Gelmi and the panel discuss the week in sport including the latest from the Rugby League World Cup, the countdown to the Third Cricket Test between South Africa and Australia, plus A-League Men and AFLW.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025073000 +0800" stop="20261025080000 +0800">
+    <title lang="zh">That Pacific Sports Show:2026 第37集</title>
+    <desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025080000 +0800" stop="20261025083000 +0800">
+    <title lang="zh">Back Roads 第12季第21集 </title>
+    <desc>Lisa Millar heads to the Darling Downs in southern Queensland for the annual Heavy Horse Festival, where she discovers there's much more to the district than just its horses.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025083000 +0800" stop="20261025090000 +0800">
+    <title lang="zh">Landline:2026 第36集</title>
+    <desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025090000 +0800" stop="20261025093000 +0800">
+    <title lang="zh">ABC News At Noon:2026 第86集</title>
+    <desc>Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025093000 +0800" stop="20261025100000 +0800">
+    <title lang="zh">The World This Week:2026 第40集</title>
+    <desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025100000 +0800" stop="20261025120000 +0800">
+    <title lang="zh">Aflw Round 11</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025120000 +0800" stop="20261025140000 +0800">
+    <title lang="zh">Aflw Round 11</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025140000 +0800" stop="20261025150000 +0800">
+    <title lang="zh">Landline:2026 第37集</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025150000 +0800" stop="20261025152500 +0800">
+    <title lang="zh">The Streets With Dan Hong 第1季第6集</title>
+    <desc>Dan Hong sets out to unearth iconic national street food dishes, tracing them back to their roots and then preparing them himself.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025152500 +0800" stop="20261025160000 +0800">
+    <title lang="zh">Audra's Eat, Roam, Relish 第1季第1集</title>
+    <desc>Audra Morrice journeys to the colourful island state of Sarawak, Malaysia where she indulges in a cultural feast for the senses via its rich gastronomy. Audra explores Malaysian roots through food, family and local culture.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025160000 +0800" stop="20261025163000 +0800">
+    <title lang="zh">ABC National News:2026 第298集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025163000 +0800" stop="20261025170000 +0800">
+    <title lang="zh">Stuff The British Stole 第1季第4集 </title>
+    <desc>In a mystery binding together China, UK &amp; Australia, British colonial forces took a golden warrior statue following an epic rebellion by Chinese martial artists. But how did it end up in a prestigious Australian building?</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025170000 +0800" stop="20261025183000 +0800">
+    <title lang="zh">Our Medicine 第1季第4集</title>
+    <desc>A behind-the-scenes look at Australia's medical services, shining a light on First Nations professionals working to achieve better health outcomes for Aboriginal and Torres Strait Islander patients and communities.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025183000 +0800" stop="20261025190000 +0800">
+    <title lang="zh">Roads Unknown India 第1季第3集</title>
+    <desc>Jess sets off for Palakkad, exporing the region's lush tea plantations and local tribal villages. As the crew heads into Karnataka, they visit a stunning waterfall and gain more riders along the way.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025190000 +0800" stop="20261025193000 +0800">
+    <title lang="zh">ABC Late News Weekend:2026 第86集</title>
+    <desc>When you need to know what's happening turn to ABC News for coverage you can trust. We bring you the day's events from reporters in more locations across Australia, connecting communities and telling your stories.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025193000 +0800" stop="20261025200000 +0800">
+    <title lang="zh">Offsiders:2026 第38集</title>
+    <desc>Abbey Gelmi and the panel discuss the week in sport including the latest from the Rugby League World Cup, the countdown to the Third Cricket Test between South Africa and Australia, plus A-League Men and AFLW.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025200000 +0800" stop="20261025202500 +0800">
+    <title lang="zh">The Streets With Dan Hong 第1季第6集</title>
+    <desc>Dan Hong sets out to unearth iconic national street food dishes, tracing them back to their roots and then preparing them himself.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025202500 +0800" stop="20261025205500 +0800">
+    <title lang="zh">Audra's Eat, Roam, Relish 第1季第1集</title>
+    <desc>Audra Morrice journeys to the colourful island state of Sarawak, Malaysia where she indulges in a cultural feast for the senses via its rich gastronomy. Audra explores Malaysian roots through food, family and local culture.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025205500 +0800" stop="20261025212000 +0800">
+    <title lang="zh">ABC News Overnight:2026 第86集</title>
+    <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025212000 +0800" stop="20261025215000 +0800">
+    <title lang="zh">Stuff The British Stole 第1季第4集 </title>
+    <desc>In a mystery binding together China, UK &amp; Australia, British colonial forces took a golden warrior statue following an epic rebellion by Chinese martial artists. But how did it end up in a prestigious Australian building?</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261025215000 +0800" stop="20261026000500 +0800">
+    <title lang="zh">Our Medicine 第1季第4集</title>
+    <desc>A behind-the-scenes look at Australia's medical services, shining a light on First Nations professionals working to achieve better health outcomes for Aboriginal and Torres Strait Islander patients and communities.</desc>
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026000500 +0800" stop="20261026003000 +0800">
+    <title lang="zh">Roads Unknown India 第1季第3集</title>
+    <desc>Jess sets off for Palakkad, exporing the region's lush tea plantations and local tribal villages. As the crew heads into Karnataka, they visit a stunning waterfall and gain more riders along the way.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026003000 +0800" stop="20261026013000 +0800">
+    <title lang="zh">Landline:2026 第37集</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026013000 +0800" stop="20261026023000 +0800">
+    <title lang="zh">Insiders:2026 第39集</title>
+    <desc>David Speers and a panel of leading political reporters and commentators discuss the week in federal politics and look ahead to the issues and events on the agenda for the sitting week ahead in parliament.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026023000 +0800" stop="20261026030000 +0800">
+    <title lang="zh">Offsiders:2026 第38集</title>
+    <desc>Abbey Gelmi and the panel discuss the week in sport including the latest from the Rugby League World Cup, the countdown to the Third Cricket Test between South Africa and Australia, plus A-League Men and AFLW.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026030000 +0800" stop="20261026040000 +0800">
+    <title lang="zh">News Breakfast:2026 第213集</title>
+    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026040000 +0800" stop="20261026060000 +0800">
+    <title lang="zh">News Breakfast:2026 第213集</title>
+    <desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026060000 +0800" stop="20261026090000 +0800">
+    <title lang="zh">ABC News Mornings:2026 第213集</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026090000 +0800" stop="20261026100000 +0800">
+    <title lang="zh">ABC News At Noon:2026 第213集</title>
+    <desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026100000 +0800" stop="20261026103000 +0800">
+    <title lang="zh">Foreign Correspondent</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026103000 +0800" stop="20261026113000 +0800">
+    <title lang="zh">Portrait Artist Of The Year 第1季第8集</title>
+    <desc>In the Grand Final, three outstanding artists each have four hours to paint a portrait of adored comedy icon Denise Scott, each drawing on their unique approach to artmaking.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026113000 +0800" stop="20261026120000 +0800">
+    <title lang="zh">When The War Is Over 第1季第4集 </title>
+    <desc>Rachel Griffiths visits the Burma-Thailand Railway that has become synonymous with WWII Prisoners of War. But a dusty piano in storage at the Australian War Memorial reveals something she could never have imagined.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026120000 +0800" stop="20261026133000 +0800">
+    <title lang="zh">Midnight Oil</title>
+    <desc>Thirty years in the making and featuring never before seen footage on and off the stage, MIDNIGHT OIL 1984 is the untold story of the year Australia's iconic rock band inspired the nation to believe in the power of music.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026133000 +0800" stop="20261026140000 +0800">
+    <title lang="zh">Pacific Break Live From Fiji 第1季第3集 </title>
+    <desc>cleared.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026140000 +0800" stop="20261026150000 +0800">
+    <title lang="zh">ABC News With Joe O'brien:2026 第213集</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026150000 +0800" stop="20261026152500 +0800">
+    <title lang="zh">The Cook Up With Adam Liaw 第5季第71集 </title>
+    <desc>Tonight, Adam and his guests, comedian Frida Deguise and chef Sam May, have fun with all things crispy and crumbed.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026152500 +0800" stop="20261026160000 +0800">
+    <title lang="zh">Foreign Correspondent</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026160000 +0800" stop="20261026163000 +0800">
+    <title lang="zh">ABC National News:2026 第299集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026163000 +0800" stop="20261026170000 +0800">
+    <title lang="zh">7.30:2026 第169集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026170000 +0800" stop="20261026180000 +0800">
+    <title lang="zh">Portrait Artist Of The Year 第1季第8集</title>
+    <desc>In the Grand Final, three outstanding artists each have four hours to paint a portrait of adored comedy icon Denise Scott, each drawing on their unique approach to artmaking.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026180000 +0800" stop="20261026185500 +0800">
+    <title lang="zh">The World:2026 第169集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026185500 +0800" stop="20261026193000 +0800">
+    <title lang="zh">Foreign Correspondent</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026193000 +0800" stop="20261026200000 +0800">
+    <title lang="zh">Planet America:2026 第33集</title>
+    <desc>Planet America is back to bring you up to date on the backflips and backdowns, the threats and thought-bubbles, escalations and ultimatums, the dramas and the disputes, the stumbles and the Truth socials in Trump's America.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026200000 +0800" stop="20261026203000 +0800">
+    <title lang="zh">The Pacific:2026 第18集 </title>
+    <desc>As New Zealand heads toward the 2026 election, Maori and Pacific communities are facing a raft of growing pressures. In this special we examine how recent policy decisions and funding changes are impacting these communities.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026203000 +0800" stop="20261026210000 +0800">
+    <title lang="zh">Every Bite Takes You Home 第1季第10集 </title>
+    <desc>Kylie Kwong shows her Chinese and Australian roots in the dishes she cooks with her mother, who inspires her to be a chef.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026210000 +0800" stop="20261026211500 +0800">
+    <title lang="zh">ABC Late News:2026 第213集</title>
+    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026211500 +0800" stop="20261026213000 +0800">
+    <title lang="zh">The Business:2026 第153集</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026213000 +0800" stop="20261026220000 +0800">
+    <title lang="zh">7.30:2026 第169集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026220000 +0800" stop="20261026230000 +0800">
+    <title lang="zh">The World:2026 第169集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261026230000 +0800" stop="20261027000500 +0800">
+    <title lang="zh">Portrait Artist Of The Year 第1季第8集</title>
+    <desc>In the Grand Final, three outstanding artists each have four hours to paint a portrait of adored comedy icon Denise Scott, each drawing on their unique approach to artmaking.</desc>
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027000500 +0800" stop="20261027003500 +0800">
+    <title lang="zh">Foreign Correspondent</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027003500 +0800" stop="20261027011000 +0800">
+    <title lang="zh">Planet America:2026 第33集</title>
+    <desc>Planet America is back to bring you up to date on the backflips and backdowns, the threats and thought-bubbles, escalations and ultimatums, the dramas and the disputes, the stumbles and the Truth socials in Trump's America.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027011000 +0800" stop="20261027014000 +0800">
+    <title lang="zh">When The War Is Over 第1季第4集 </title>
+    <desc>Rachel Griffiths visits the Burma-Thailand Railway that has become synonymous with WWII Prisoners of War. But a dusty piano in storage at the Australian War Memorial reveals something she could never have imagined.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027014000 +0800" stop="20261027020000 +0800">
+    <title lang="zh">Every Bite Takes You Home 第1季第10集 </title>
+    <desc>Kylie Kwong shows her Chinese and Australian roots in the dishes she cooks with her mother, who inspires her to be a chef.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027020000 +0800" stop="20261027030000 +0800">
+    <title lang="zh">The World:2026 第169集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027030000 +0800" stop="20261027040000 +0800">
+    <title lang="zh">News Breakfast:2026 第214集</title>
+    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027040000 +0800" stop="20261027060000 +0800">
+    <title lang="zh">News Breakfast:2026 第214集</title>
+    <desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027060000 +0800" stop="20261027090000 +0800">
+    <title lang="zh">ABC News Mornings:2026 第214集</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027090000 +0800" stop="20261027100000 +0800">
+    <title lang="zh">ABC News At Noon:2026 第214集</title>
+    <desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027100000 +0800" stop="20261027103000 +0800">
+    <title lang="zh">Australian Story:2026 第34集</title>
+    <desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027103000 +0800" stop="20261027121000 +0800">
+    <title lang="zh">Back Roads 第12季第22集 </title>
+    <desc>Guest presenter, Tom Forrest motors into South Australia's Bordertown, to see how their brand new Tolmer Speedway track and innovative thinking is injecting new energy into the town.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027121000 +0800" stop="20261027125500 +0800">
+    <title lang="zh">Gardening Australia:2026 第10集</title>
+    <desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027125500 +0800" stop="20261027132500 +0800">
+    <title lang="zh">Landline:2026 第36集</title>
+    <desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027132500 +0800" stop="20261027140000 +0800">
+    <title lang="zh">Planet America:2026 第33集</title>
+    <desc>Planet America is back to bring you up to date on the backflips and backdowns, the threats and thought-bubbles, escalations and ultimatums, the dramas and the disputes, the stumbles and the Truth socials in Trump's America.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027140000 +0800" stop="20261027150000 +0800">
+    <title lang="zh">ABC News With Joe O'brien:2026 第214集</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027150000 +0800" stop="20261027152500 +0800">
+    <title lang="zh">The Cook Up With Adam Liaw 第5季第72集 </title>
+    <desc>Fervor's Paul Iskov and Pub Choir's Astrid Jorgensen join Adam in the kitchen to cook food influenced by their culture and work.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027152500 +0800" stop="20261027160000 +0800">
+    <title lang="zh">Extraordinary Animals 第1季第1集</title>
+    <desc>Featuring some remarkably imaginative animals, this episode explores how creativity enables impressive problem-solving skills and drives forward adaptations that are essential for survival.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027160000 +0800" stop="20261027163000 +0800">
+    <title lang="zh">ABC National News:2026 第300集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027163000 +0800" stop="20261027170000 +0800">
+    <title lang="zh">7.30:2026 第170集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027170000 +0800" stop="20261027173000 +0800">
+    <title lang="zh">Australian Story:2026 第34集</title>
+    <desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027173000 +0800" stop="20261027180000 +0800">
+    <title lang="zh">Audra's Eat, Roam, Relish 第1季第4集</title>
+    <desc>Audra Morrice journeys to the colourful island state of Sarawak, Malaysia where she indulges in a cultural feast for the senses via its rich gastronomy. Audra explores Malaysian roots through food, family and local culture.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027180000 +0800" stop="20261027190000 +0800">
+    <title lang="zh">The World:2026 第170集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027190000 +0800" stop="20261027193000 +0800">
+    <title lang="zh">Back Roads 第12季第22集 </title>
+    <desc>Guest presenter, Tom Forrest motors into South Australia's Bordertown, to see how their brand new Tolmer Speedway track and innovative thinking is injecting new energy into the town.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027193000 +0800" stop="20261027200000 +0800">
+    <title lang="zh">Stuff The British Stole 第1季第4集 </title>
+    <desc>In a mystery binding together China, UK &amp; Australia, British colonial forces took a golden warrior statue following an epic rebellion by Chinese martial artists. But how did it end up in a prestigious Australian building?</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027200000 +0800" stop="20261027203000 +0800">
+    <title lang="zh">Roads Unknown India 第1季第4集</title>
+    <desc>The ride takes a dramatic turn when Bhaskar totals the support car. With Ridermania just days away, Jess and the team scramble to salvage their journey.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027203000 +0800" stop="20261027210000 +0800">
+    <title lang="zh">Extraordinary Animals 第1季第1集</title>
+    <desc>Featuring some remarkably imaginative animals, this episode explores how creativity enables impressive problem-solving skills and drives forward adaptations that are essential for survival.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027210000 +0800" stop="20261027211500 +0800">
+    <title lang="zh">ABC Late News:2026 第214集</title>
+    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027211500 +0800" stop="20261027213000 +0800">
+    <title lang="zh">The Business:2026 第154集</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027213000 +0800" stop="20261027220000 +0800">
+    <title lang="zh">7.30:2026 第170集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027220000 +0800" stop="20261027230000 +0800">
+    <title lang="zh">The World:2026 第170集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027230000 +0800" stop="20261027233000 +0800">
+    <title lang="zh">Landline:2026 第36集</title>
+    <desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261027233000 +0800" stop="20261028000000 +0800">
+    <title lang="zh">Back Roads 第12季第22集 </title>
+    <desc>Guest presenter, Tom Forrest motors into South Australia's Bordertown, to see how their brand new Tolmer Speedway track and innovative thinking is injecting new energy into the town.</desc>
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028000000 +0800" stop="20261028003000 +0800">
+    <title lang="zh">Australian Story:2026 第34集</title>
+    <desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028003000 +0800" stop="20261028013500 +0800">
+    <title lang="zh">Gardening Australia:2026 第10集</title>
+    <desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028013500 +0800" stop="20261028020000 +0800">
+    <title lang="zh">Extraordinary Animals 第1季第1集</title>
+    <desc>Featuring some remarkably imaginative animals, this episode explores how creativity enables impressive problem-solving skills and drives forward adaptations that are essential for survival.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028020000 +0800" stop="20261028030000 +0800">
+    <title lang="zh">The World:2026 第170集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028030000 +0800" stop="20261028040000 +0800">
+    <title lang="zh">News Breakfast:2026 第215集</title>
+    <desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028040000 +0800" stop="20261028060000 +0800">
+    <title lang="zh">News Breakfast:2026 第215集</title>
+    <desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028060000 +0800" stop="20261028090000 +0800">
+    <title lang="zh">ABC News Mornings:2026 第215集</title>
+    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028090000 +0800" stop="20261028093000 +0800">
+    <title lang="zh">ABC News At Noon:2026 第215集</title>
+    <desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028093000 +0800" stop="20261028100000 +0800">
+    <title lang="zh">Landline:2026 第36集</title>
+    <desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028100000 +0800" stop="20261028104500 +0800">
+    <title lang="zh">Four Corners:2026 第35集</title>
+    <desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028104500 +0800" stop="20261028113000 +0800">
+    <title lang="zh">Media Watch:2026 第38集</title>
+    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028113000 +0800" stop="20261028122500 +0800">
+    <title lang="zh">Alone Australia 第3季第4集</title>
+    <desc>A shock medical complication threatens to remove one of the toughest participants while isolation begins to take its toll.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028122500 +0800" stop="20261028140000 +0800">
+    <title lang="zh">Ride</title>
+    <desc>Two world champions fall in love and conquer the world of BMX racing. A single training accident risks taking everything they have known away.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028140000 +0800" stop="20261028150000 +0800">
+    <title lang="zh">ABC News With Joe O'brien:2026 第215集</title>
+    <desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028150000 +0800" stop="20261028153000 +0800">
+    <title lang="zh">The Cook Up With Adam Liaw 第5季第73集 </title>
+    <desc>Do you believe in love at first bite? Grab a spoon and prepare to swoon as TikTok star Andy Hearnden and award-winning cookbook author Lara Lee join Adam to make food from the heart.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028153000 +0800" stop="20261028160000 +0800">
+    <title lang="zh">That Pacific Sports Show:2026 第38集</title>
+    <desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028160000 +0800" stop="20261028163000 +0800">
+    <title lang="zh">ABC National News:2026 第301集</title>
+    <desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028163000 +0800" stop="20261028170000 +0800">
+    <title lang="zh">7.30:2026 第171集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028170000 +0800" stop="20261028180000 +0800">
+    <title lang="zh">Grand Designs Australia 第12季第4集 </title>
+    <desc>Acclaimed Australian architect Ed Lippmann discovers transforming his childhood home into a signature steel and glass showpiece may be the most daunting assignment of his storied career.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028180000 +0800" stop="20261028185500 +0800">
+    <title lang="zh">The World:2026 第171集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028185500 +0800" stop="20261028194500 +0800">
+    <title lang="zh">Four Corners:2026 第35集</title>
+    <desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028194500 +0800" stop="20261028200000 +0800">
+    <title lang="zh">Media Watch:2026 第38集</title>
+    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028200000 +0800" stop="20261028210000 +0800">
+    <title lang="zh">Landline:2026 第37集</title>
+    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028210000 +0800" stop="20261028211500 +0800">
+    <title lang="zh">ABC Late News:2026 第215集</title>
+    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028211500 +0800" stop="20261028213000 +0800">
+    <title lang="zh">The Business:2026 第155集</title>
+    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028213000 +0800" stop="20261028220000 +0800">
+    <title lang="zh">7.30:2026 第171集</title>
+    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028220000 +0800" stop="20261028230000 +0800">
+    <title lang="zh">The World:2026 第171集</title>
+    <desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028230000 +0800" stop="20261028235500 +0800">
+    <title lang="zh">Grand Designs Australia 第12季第4集 </title>
+    <desc>Acclaimed Australian architect Ed Lippmann discovers transforming his childhood home into a signature steel and glass showpiece may be the most daunting assignment of his storied career.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="410383" start="20261028235500 +0800" stop="20261029000000 +0800">
+    <title lang="zh">That Pacific Sports Show:2026 第38集</title>
+    <desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
 <programme  channel="410407" start="20261022000000 +0800" stop="20261022020000 +0800">
     <title lang="zh">NBA精彩重溫</title>
     <desc />
@@ -24221,6 +25837,1078 @@
 <programme  channel="456575" start="20261028223000 +0800" stop="20261029000000 +0800">
     <title lang="zh">2026-2027 NBA籃球賽</title>
     <desc>2026-2027 NBA籃球賽</desc>
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022000000 +0800" stop="20261022004500 +0800">
+    <title lang="zh">寶島神很大(467)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022004500 +0800" stop="20261022030000 +0800">
+    <title lang="zh">針線緣(52)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022030000 +0800" stop="20261022033000 +0800">
+    <title lang="zh">新戲說台灣(3391)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022033000 +0800" stop="20261022043000 +0800">
+    <title lang="zh">型男大主廚(3447)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022043000 +0800" stop="20261022070000 +0800">
+    <title lang="zh">一家團圓(112)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022070000 +0800" stop="20261022073000 +0800">
+    <title lang="zh">新美食鳳味(1020)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022073000 +0800" stop="20261022080000 +0800">
+    <title lang="zh">新美食鳳味(1020)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022080000 +0800" stop="20261022101500 +0800">
+    <title lang="zh">針線緣(52)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022101500 +0800" stop="20261022111500 +0800">
+    <title lang="zh">型男大主廚(3447)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022111500 +0800" stop="20261022114500 +0800">
+    <title lang="zh">新戲說台灣(3391)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022114500 +0800" stop="20261022124500 +0800">
+    <title lang="zh">寶島神很大(467)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022124500 +0800" stop="20261022134500 +0800">
+    <title lang="zh">型男大主廚(3448)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022134500 +0800" stop="20261022141500 +0800">
+    <title lang="zh">新美食鳳味(1021)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022141500 +0800" stop="20261022144500 +0800">
+    <title lang="zh">新美食鳳味(1021)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022144500 +0800" stop="20261022170000 +0800">
+    <title lang="zh">針線緣(52)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022170000 +0800" stop="20261022193000 +0800">
+    <title lang="zh">一家團圓(113)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022193000 +0800" stop="20261022200000 +0800">
+    <title lang="zh">新戲說台灣(3392)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022200000 +0800" stop="20261022210000 +0800">
+    <title lang="zh">上山下海過一夜(25)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022210000 +0800" stop="20261022231500 +0800">
+    <title lang="zh">針線緣(53)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022231500 +0800" stop="20261022234500 +0800">
+    <title lang="zh">新戲說台灣(3392)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261022234500 +0800" stop="20261023000000 +0800">
+    <title lang="zh">上山下海過一夜(25)(普)</title>
+    <desc />
+    <date>20261022</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023000000 +0800" stop="20261023004500 +0800">
+    <title lang="zh">上山下海過一夜(25)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023004500 +0800" stop="20261023030000 +0800">
+    <title lang="zh">針線緣(53)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023030000 +0800" stop="20261023033000 +0800">
+    <title lang="zh">新戲說台灣(3392)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023033000 +0800" stop="20261023043000 +0800">
+    <title lang="zh">型男大主廚(3448)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023043000 +0800" stop="20261023070000 +0800">
+    <title lang="zh">一家團圓(113)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023070000 +0800" stop="20261023073000 +0800">
+    <title lang="zh">新美食鳳味(1021)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023073000 +0800" stop="20261023080000 +0800">
+    <title lang="zh">新美食鳳味(1021)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023080000 +0800" stop="20261023101500 +0800">
+    <title lang="zh">針線緣(53)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023101500 +0800" stop="20261023111500 +0800">
+    <title lang="zh">型男大主廚(3448)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023111500 +0800" stop="20261023114500 +0800">
+    <title lang="zh">新戲說台灣(3392)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023114500 +0800" stop="20261023124500 +0800">
+    <title lang="zh">上山下海過一夜(25)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023124500 +0800" stop="20261023134500 +0800">
+    <title lang="zh">型男大主廚(3449)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023134500 +0800" stop="20261023141500 +0800">
+    <title lang="zh">新美食鳳味(1022)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023141500 +0800" stop="20261023144500 +0800">
+    <title lang="zh">新美食鳳味(1022)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023144500 +0800" stop="20261023170000 +0800">
+    <title lang="zh">針線緣(53)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023170000 +0800" stop="20261023193000 +0800">
+    <title lang="zh">一家團圓(114)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023193000 +0800" stop="20261023200000 +0800">
+    <title lang="zh">新戲說台灣(3393)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023200000 +0800" stop="20261023210000 +0800">
+    <title lang="zh">愛玩客之老外看台灣(333)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023210000 +0800" stop="20261023233000 +0800">
+    <title lang="zh">針線緣(54)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261023233000 +0800" stop="20261024000000 +0800">
+    <title lang="zh">新戲說台灣(3393)(普)</title>
+    <desc />
+    <date>20261023</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024000000 +0800" stop="20261024020000 +0800">
+    <title lang="zh">新戲說台灣(977)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024020000 +0800" stop="20261024043000 +0800">
+    <title lang="zh">天之驕女(59)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024043000 +0800" stop="20261024050000 +0800">
+    <title lang="zh">新戲說台灣(3392)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024050000 +0800" stop="20261024060000 +0800">
+    <title lang="zh">寶島漁很大(166)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024060000 +0800" stop="20261024070000 +0800">
+    <title lang="zh">上山下海過一夜(25)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024070000 +0800" stop="20261024080000 +0800">
+    <title lang="zh">在台灣的故事(812)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024080000 +0800" stop="20261024103000 +0800">
+    <title lang="zh">天之驕女(59)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024103000 +0800" stop="20261024120000 +0800">
+    <title lang="zh">超級夜總會(712)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024120000 +0800" stop="20261024140000 +0800">
+    <title lang="zh">新戲說台灣(978)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024140000 +0800" stop="20261024163000 +0800">
+    <title lang="zh">天之驕女(59)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024163000 +0800" stop="20261024170000 +0800">
+    <title lang="zh">完全娛樂(1184)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024170000 +0800" stop="20261024190000 +0800">
+    <title lang="zh">第61屆金鐘獎戲劇類星光大道(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024190000 +0800" stop="20261024223000 +0800">
+    <title lang="zh">第61屆金鐘獎戲劇類頒獎典禮(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261024223000 +0800" stop="20261025000000 +0800">
+    <title lang="zh">超級夜總會(713)(普)</title>
+    <desc />
+    <date>20261024</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025000000 +0800" stop="20261025020000 +0800">
+    <title lang="zh">新戲說台灣(978)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025020000 +0800" stop="20261025053000 +0800">
+    <title lang="zh">第61屆金鐘獎戲劇類頒獎典禮(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025053000 +0800" stop="20261025060000 +0800">
+    <title lang="zh">完全娛樂(1184)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025060000 +0800" stop="20261025070000 +0800">
+    <title lang="zh">寶島神很大(467)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025070000 +0800" stop="20261025080000 +0800">
+    <title lang="zh">愛玩客之老外看台灣(333)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025080000 +0800" stop="20261025113000 +0800">
+    <title lang="zh">第61屆金鐘獎戲劇類頒獎典禮(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025113000 +0800" stop="20261025120000 +0800">
+    <title lang="zh">完全娛樂(1185)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025120000 +0800" stop="20261025140000 +0800">
+    <title lang="zh">新戲說台灣(979)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025140000 +0800" stop="20261025150000 +0800">
+    <title lang="zh">在台灣的故事(812)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025150000 +0800" stop="20261025160000 +0800">
+    <title lang="zh">寶島神很大(467)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025160000 +0800" stop="20261025163000 +0800">
+    <title lang="zh">完全娛樂(1185)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025163000 +0800" stop="20261025173000 +0800">
+    <title lang="zh">寶島漁很大(167)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025173000 +0800" stop="20261025183000 +0800">
+    <title lang="zh">犀利人妻(14)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025183000 +0800" stop="20261025200000 +0800">
+    <title lang="zh">超級紅人榜(738)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025200000 +0800" stop="20261025223000 +0800">
+    <title lang="zh">天之驕女(60)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261025223000 +0800" stop="20261026000000 +0800">
+    <title lang="zh">超級紅人榜(738)(普)</title>
+    <desc />
+    <date>20261025</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026000000 +0800" stop="20261026010000 +0800">
+    <title lang="zh">寶島神很大(467)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026010000 +0800" stop="20261026030000 +0800">
+    <title lang="zh">針線緣(54)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026030000 +0800" stop="20261026033000 +0800">
+    <title lang="zh">新戲說台灣(3393)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026033000 +0800" stop="20261026043000 +0800">
+    <title lang="zh">型男大主廚(3449)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026043000 +0800" stop="20261026070000 +0800">
+    <title lang="zh">一家團圓(114)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026070000 +0800" stop="20261026073000 +0800">
+    <title lang="zh">新美食鳳味(1022)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026073000 +0800" stop="20261026080000 +0800">
+    <title lang="zh">新美食鳳味(1022)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026080000 +0800" stop="20261026101500 +0800">
+    <title lang="zh">針線緣(54)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026101500 +0800" stop="20261026111500 +0800">
+    <title lang="zh">型男大主廚(3449)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026111500 +0800" stop="20261026114500 +0800">
+    <title lang="zh">新戲說台灣(3393)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026114500 +0800" stop="20261026124500 +0800">
+    <title lang="zh">寶島神很大(467)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026124500 +0800" stop="20261026134500 +0800">
+    <title lang="zh">型男大主廚(3450)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026134500 +0800" stop="20261026141500 +0800">
+    <title lang="zh">新美食鳳味(1020)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026141500 +0800" stop="20261026144500 +0800">
+    <title lang="zh">新美食鳳味(1020)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026144500 +0800" stop="20261026170000 +0800">
+    <title lang="zh">針線緣(54)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026170000 +0800" stop="20261026193000 +0800">
+    <title lang="zh">一家團圓(115)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026193000 +0800" stop="20261026200000 +0800">
+    <title lang="zh">新戲說台灣(3394)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026200000 +0800" stop="20261026210000 +0800">
+    <title lang="zh">在台灣的故事(813)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026210000 +0800" stop="20261026231500 +0800">
+    <title lang="zh">針線緣(55)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026231500 +0800" stop="20261026234500 +0800">
+    <title lang="zh">新戲說台灣(3394)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261026234500 +0800" stop="20261027000000 +0800">
+    <title lang="zh">在台灣的故事(813)(普)</title>
+    <desc />
+    <date>20261026</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027000000 +0800" stop="20261027004500 +0800">
+    <title lang="zh">在台灣的故事(813)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027004500 +0800" stop="20261027030000 +0800">
+    <title lang="zh">針線緣(55)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027030000 +0800" stop="20261027033000 +0800">
+    <title lang="zh">新戲說台灣(3394)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027033000 +0800" stop="20261027043000 +0800">
+    <title lang="zh">型男大主廚(3450)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027043000 +0800" stop="20261027070000 +0800">
+    <title lang="zh">一家團圓(115)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027070000 +0800" stop="20261027073000 +0800">
+    <title lang="zh">新美食鳳味(1020)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027073000 +0800" stop="20261027080000 +0800">
+    <title lang="zh">新美食鳳味(1020)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027080000 +0800" stop="20261027101500 +0800">
+    <title lang="zh">針線緣(55)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027101500 +0800" stop="20261027111500 +0800">
+    <title lang="zh">型男大主廚(3450)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027111500 +0800" stop="20261027114500 +0800">
+    <title lang="zh">新戲說台灣(3394)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027114500 +0800" stop="20261027124500 +0800">
+    <title lang="zh">在台灣的故事(813)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027124500 +0800" stop="20261027134500 +0800">
+    <title lang="zh">型男大主廚(3451)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027134500 +0800" stop="20261027141500 +0800">
+    <title lang="zh">新美食鳳味(1026)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027141500 +0800" stop="20261027144500 +0800">
+    <title lang="zh">新美食鳳味(1026)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027144500 +0800" stop="20261027170000 +0800">
+    <title lang="zh">針線緣(55)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027170000 +0800" stop="20261027193000 +0800">
+    <title lang="zh">一家團圓(116)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027193000 +0800" stop="20261027200000 +0800">
+    <title lang="zh">新戲說台灣(3395)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027200000 +0800" stop="20261027210000 +0800">
+    <title lang="zh">愛玩客之老外看台灣(334)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027210000 +0800" stop="20261027231500 +0800">
+    <title lang="zh">針線緣(56)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027231500 +0800" stop="20261027234500 +0800">
+    <title lang="zh">新戲說台灣(3395)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261027234500 +0800" stop="20261028000000 +0800">
+    <title lang="zh">愛玩客之老外看台灣(334)(普)</title>
+    <desc />
+    <date>20261027</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028000000 +0800" stop="20261028004500 +0800">
+    <title lang="zh">愛玩客之老外看台灣(334)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028004500 +0800" stop="20261028030000 +0800">
+    <title lang="zh">針線緣(56)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028030000 +0800" stop="20261028033000 +0800">
+    <title lang="zh">新戲說台灣(3395)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028033000 +0800" stop="20261028043000 +0800">
+    <title lang="zh">型男大主廚(3451)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028043000 +0800" stop="20261028070000 +0800">
+    <title lang="zh">一家團圓(116)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028070000 +0800" stop="20261028073000 +0800">
+    <title lang="zh">新美食鳳味(1026)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028073000 +0800" stop="20261028080000 +0800">
+    <title lang="zh">新美食鳳味(1026)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028080000 +0800" stop="20261028101500 +0800">
+    <title lang="zh">針線緣(56)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028101500 +0800" stop="20261028111500 +0800">
+    <title lang="zh">型男大主廚(3451)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028111500 +0800" stop="20261028114500 +0800">
+    <title lang="zh">新戲說台灣(3395)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028114500 +0800" stop="20261028124500 +0800">
+    <title lang="zh">愛玩客之老外看台灣(334)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028124500 +0800" stop="20261028134500 +0800">
+    <title lang="zh">型男大主廚(3452)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028134500 +0800" stop="20261028141500 +0800">
+    <title lang="zh">新美食鳳味(1027)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028141500 +0800" stop="20261028144500 +0800">
+    <title lang="zh">新美食鳳味(1027)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028144500 +0800" stop="20261028170000 +0800">
+    <title lang="zh">針線緣(56)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028170000 +0800" stop="20261028193000 +0800">
+    <title lang="zh">一家團圓(117)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028193000 +0800" stop="20261028200000 +0800">
+    <title lang="zh">新戲說台灣(3396)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028200000 +0800" stop="20261028210000 +0800">
+    <title lang="zh">寶島神很大(468)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028210000 +0800" stop="20261028231500 +0800">
+    <title lang="zh">針線緣(57)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028231500 +0800" stop="20261028234500 +0800">
+    <title lang="zh">新戲說台灣(3396)(普)</title>
+    <desc />
+    <date>20261028</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+<programme  channel="457311" start="20261028234500 +0800" stop="20261029000000 +0800">
+    <title lang="zh">寶島神很大(468)(普)</title>
+    <desc />
     <date>20261028</date>
     <audio>
       <stereo>stereo</stereo>
