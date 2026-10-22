@@ -401,8 +401,6 @@ https://mursor.ottiptv.cc/gptv/G_NONGLIN.m3u8
 http://119.91.7.169:2026/difangtai/%E9%99%95%E8%A5%BF.php?id=nlws
 #EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
 http://223.111.150.99:2005/ysws.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 tvg-id="261" group-title="卫视",中国农林卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=843bfcf02c9756e08a08014350e2cca5&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261022085047&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=39.103.182.111&SecurityKey=20261022085047&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fe28c85c36110dcbc4fa716038db7ed7&ddCalcu=7fdeve2a78kbcad8853c03661171a0fd4ccb&sv=10004&ct=android
 #EXTINF:-1 tvg-id="539830" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png",海峡卫视
 http://183.250.156.180:9999/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 tvg-id="539830" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png",海峡卫视
@@ -529,8 +527,6 @@ http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
 http://stream1.jlntv.cn/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-id="544374" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林生活.png",吉林生活频道
 http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-id="544408" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林综艺文化.png",吉林综艺文化频道
-http://gslbmgsplive.miguvideo.com/migu/kailu/jlzywhpd/51/20261014/index.m3u8?msisdn=1f114f085dff6ac96c7c8c002b1ff908&mdspid=&spid=600572&netType=0&sid=5910022520&pid=2028597139&timestamp=20261022095054&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968553163&ParentNodeID=-99&assertID=5910022520&client_ip=39.103.188.159&SecurityKey=20261022095054&promotionId=&mvid=5900006893&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=84230a0877bf52f12978bd6607bdcb4c&ddCalcu=c844vb2ac3dd0aba70086767dbbf85729f21&sv=10004&ct=android
 #EXTINF:-1 tvg-id="544300" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林乡村.png",吉林乡村频道
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 tvg-id="539852" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江都市.png",黑龙江都市频道
@@ -549,8 +545,6 @@ https://ls.qingting.fm/live/4972/64k.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="539898" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏城市.png",江苏城市频道
 https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc5696
-#EXTINF:-1 tvg-id="539715" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏综艺.png",江苏综艺频道
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=35813d5749168e6d37f0b774372b4801&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261022095048&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=39.103.188.159&SecurityKey=20261022095048&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3811c3c39f8befe33e615aa9294985bc&ddCalcu=c3b8v51a81d9ca439c2399afa85b1e6fee33&sv=10004&ct=android
 #EXTINF:-1 tvg-id="539635" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏影视.png",江苏影视频道
 https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d9
 #EXTINF:-1 tvg-id="216" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏教育.png",江苏教育频道
@@ -653,8 +647,6 @@ http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="257" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西都市青春.png",陕西都市青春频道
 http://112.46.105.20:8009/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="256" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西新闻资讯.png",陕西新闻资讯频道
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=41b2ef02b12178925ee2b6ec81eb7765&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261022095053&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=39.103.188.159&SecurityKey=20261022095053&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1d1551531b41f7d48d23f6d336ea65c0&ddCalcu=01cdv51a65aa5ae1653331db64f13f27dd84&sv=10004&ct=android
 #EXTINF:-1 tvg-id="544638" group-title="地方台",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 #EXTINF:-1 tvg-id="544638" group-title="地方台",广州综合
