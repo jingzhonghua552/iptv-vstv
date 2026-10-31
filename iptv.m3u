@@ -24,13 +24,13 @@ http://112.27.5.218:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="545935" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文国际
 http://genglei.8866.org:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="545936" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="545936" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
 http://173.208.234.146/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="545936" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5 体育
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="545937" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5+ 体育赛事
 http://173.208.234.146/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="545937" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",CCTV-5+ 体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="545938" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png",CCTV-6 电影
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 #EXTINF:-1 tvg-id="545938" group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png",CCTV-6 电影
