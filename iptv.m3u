@@ -309,8 +309,6 @@ http://107.150.60.122/live/dnwshd.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 #EXTINF:-1 tvg-id="539876" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="539876" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="539740" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png",山东卫视
 http://173.208.212.130:8181/720p/sdws.m3u8
 #EXTINF:-1 tvg-id="539740" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png",山东卫视
@@ -417,8 +415,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 http://173.208.212.130:8181/720p/ynws.m3u8
 #EXTINF:-1 tvg-id="539728" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png",西藏卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
-#EXTINF:-1 tvg-id="539728" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png",西藏卫视
-http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="539766" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/康巴卫视.png",康巴卫视
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="539697" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png",陕西卫视
@@ -701,8 +697,6 @@ http://120.76.248.139/live/bfgd/4200000113.m3u8
 http://114.242.62.109:888/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="北京新闻频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",北京新闻频道
 http://114.242.62.109:888/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="北京新闻频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",北京新闻频道
-http://114.242.62.109:888/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="北京财经频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png",北京财经频道
 http://114.242.62.109:888/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="539668" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png",山东综艺频道
