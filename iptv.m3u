@@ -703,7 +703,7 @@ http://120.224.84.170:8085/hls/9/index.m3u8
 http://123.207.224.130:123/jilin/jilin.php?id=jlds
 #EXTINF:-1 tvg-id="456557" group-title="其他" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS.png",TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="浙江影视娱乐频道" group-title="地方台" tvg-logo="",浙江影视娱乐频道
+#EXTINF:-1 tvg-id="浙江影视娱乐频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/浙江影视娱乐频道.png",浙江影视娱乐频道
 http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 tvg-id="544408" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E7%BB%BC%E8%89%BA%E6%96%87%E5%8C%96.png",吉林综艺文化频道
 http://123.207.224.130:123/jilin/jilin.php?id=jlzywh
