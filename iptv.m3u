@@ -469,13 +469,13 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-id="370251" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/人间卫视.png",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+#EXTINF:-1 tvg-id="456645" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+#EXTINF:-1 tvg-id="456645" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+#EXTINF:-1 tvg-id="456645" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="台视新闻台" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+#EXTINF:-1 tvg-id="456645" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="457311" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7.png",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
@@ -621,29 +621,29 @@ http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 #EXTINF:-1 tvg-id="544638" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="地方台",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-id="北京影视频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png",北京影视频道
+#EXTINF:-1 tvg-id="539645" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png",北京影视频道
 http://114.242.62.109:888/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="辽宁经济频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E7%BB%8F%E6%B5%8E.png",辽宁经济频道
+#EXTINF:-1 tvg-id="249" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E7%BB%8F%E6%B5%8E.png",辽宁经济频道
 http://120.76.248.139/live/bfgd/4200000076.m3u8
-#EXTINF:-1 tvg-id="辽宁公共频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%85%AC%E5%85%B1.png",辽宁公共频道
+#EXTINF:-1 tvg-id="244" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%85%AC%E5%85%B1.png",辽宁公共频道
 http://120.76.248.139/live/bfgd/4200000077.m3u8
-#EXTINF:-1 tvg-id="北京体育休闲频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png",北京体育休闲频道
+#EXTINF:-1 tvg-id="570473" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png",北京体育休闲频道
 http://114.242.62.109:888/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="云南都市频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E9%83%BD%E5%B8%82.png",云南都市频道
+#EXTINF:-1 tvg-id="281" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E9%83%BD%E5%B8%82.png",云南都市频道
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-#EXTINF:-1 tvg-id="辽宁教育青少频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E6%95%99%E8%82%B2%E9%9D%92%E5%B0%91.png",辽宁教育青少频道
+#EXTINF:-1 tvg-id="247" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E6%95%99%E8%82%B2%E9%9D%92%E5%B0%91.png",辽宁教育青少频道
 http://120.76.248.139/live/bfgd/4200000075.m3u8
 #EXTINF:-1 tvg-id="辽宁体育频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E4%BD%93%E8%82%B2.png",辽宁体育频道
 http://120.76.248.139/live/bfgd/4200000068.m3u8
-#EXTINF:-1 tvg-id="辽宁影视剧频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7.png",辽宁影视剧频道
+#EXTINF:-1 tvg-id="246" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7.png",辽宁影视剧频道
 http://120.76.248.139/live/bfgd/4200000070.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",北京纪实科教频道
+#EXTINF:-1 tvg-id="116" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",北京纪实科教频道
 http://114.242.62.109:888/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="北京文艺频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png",北京文艺频道
+#EXTINF:-1 tvg-id="539736" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA.png",北京文艺频道
 http://114.242.62.109:888/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="北京新闻频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",北京新闻频道
+#EXTINF:-1 tvg-id="539647" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png",北京新闻频道
 http://114.242.62.109:888/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="北京财经频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png",北京财经频道
+#EXTINF:-1 tvg-id="539872" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png",北京财经频道
 http://114.242.62.109:888/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="539668" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png",山东综艺频道
 http://111.14.186.11:5009/hls/19/index.m3u8
