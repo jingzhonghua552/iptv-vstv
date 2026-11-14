@@ -945,7 +945,7 @@ http://183.237.95.108:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=
 http://192.151.150.154/live/gxds.m3u8
 #EXTINF:-1 tvg-id="370171" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png",华视新闻台
 https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="江苏综合频道" group-title="其他" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/_txt_68ba4b66.png",江苏综合频道
+#EXTINF:-1 tvg-id="乐至综合频道" group-title="地方台" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/%E4%B9%90%E8%87%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",乐至综合频道
 http://175.155.106.72:89/live1/live1.m3u8
 #EXTINF:-1 tvg-id="河北三佳购物频道" group-title="其他" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三佳购物.png",河北三佳购物频道
 http://1.94.31.214/php/hebei.php?id=hbgg
