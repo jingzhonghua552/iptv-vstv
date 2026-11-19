@@ -1093,6 +1093,14 @@ http://114.242.62.109:888/hls/53/index.m3u8
 http://114.242.62.109:888/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="456555" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新闻台
 https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="410378" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png",凤凰卫视中文台
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="410378" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png",凤凰卫视中文台
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+#EXTINF:-1 tvg-id="410355" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png",凤凰卫视资讯台
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="410355" group-title="港澳台" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png",凤凰卫视资讯台
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 #EXTINF:-1 tvg-id="animalplanet" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/_txt_52d1df7f.png",Animal Planet
 http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="animalplanet" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/_txt_52d1df7f.png",Animal Planet
@@ -1167,7 +1175,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="368342" group-title="国外中文" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",France 24
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="国外中文" tvg-logo="https://www.bbc-tv.co.jp/images_rw2024/common/icon_apple_touch.png",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/_txt_dd267a14.png",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="foxsports1" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/FOXSPORTS1.png",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
@@ -1225,7 +1233,7 @@ http://200.10.30.241:8000/play/a01r/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="410297" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DMAX.png",DMAX
 http://90.163.85.113:8093/stream/51/index.m3u8
-#EXTINF:-1 tvg-id="astroaod" group-title="国外中文" tvg-logo="https://freetv.fun/media/images/channel/2022/08/26/large/20220826114608609036_92.png",Astro AOD
+#EXTINF:-1 tvg-id="astroaod" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/_txt_83fd9506.png",Astro AOD
 https://cdn3.indevs.in/stream/live/aod/
 #EXTINF:-1 tvg-id="astroaec" group-title="国外中文" tvg-logo="https://i.postimg.cc/wTQ0nC4r/Astro-AEC.png",Astro AEC
 http://cdn3.123.rr.kg/stream/live/aec/
