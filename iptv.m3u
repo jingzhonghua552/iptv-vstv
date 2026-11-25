@@ -1191,5 +1191,7 @@ https://cdn3.indevs.in/stream/live/aod/
 http://cdn3.123.rr.kg/stream/live/aec/
 #EXTINF:-1 tvg-id="golfchannel" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/GOLFCHANNEL.png",Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1779283789&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=56943a1262fd47843d1dbaaaf88363bc
+#EXTINF:-1 tvg-id="mtvlive" group-title="国外中文" tvg-logo="https://gcore.jsdelivr.net/gh/jingzhonghua552/iptv-vstv@main/logos/MTVLIVE.png",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="539650" group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png",山东教育卫视
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
